@@ -24,7 +24,7 @@ gallery:
         alttext: Exotic
       - filename: gallery-8.jpg
         alttext: Filled out
-        published: false
+published: false
 ---
 
 An alternative to the simple gallery would be this version, which displays the post ins a lightbox.
