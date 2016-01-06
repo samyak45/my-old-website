@@ -1,6 +1,6 @@
 full_rebuild: true
 name: Samyak Choudhary
-description: a personal blog of Samyak Choudhary
+description:  A Computer Science undergrad at Indian Institute of Technology, Roorkee
 logo: logo.png
 destination: jekyllbuild
 url: #place url
@@ -17,9 +17,10 @@ author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
 
-instagram: "#"
-facebook: "facebook.com/samyak.choudhary.355"
-youtube: "#"
+instagram: "samyak.choudhary"
+facebook: samyak.choudhary.355
+quora: "Samyak-Choudhary"
+email: samyak.choudhary@gmail.com
 
 encoding: utf-8
 defaults:
