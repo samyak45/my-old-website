@@ -7,6 +7,7 @@ featimg: 6.jpg
 title: Audio Full
 tags: [music, soundcloud]
 category: [audio]
+published: false
 ---
 This audio post is displays without a material-sidebar and has a featured image set for the index pages.
 
