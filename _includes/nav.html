@@ -23,39 +23,71 @@
                 <li class="sicon">
                     <a href='#search'><i class='fa fa-search'></i></a>
                 </li>
-                {% if site.tumblr %}
+                
+                {% if site.email %}
                 <li class="social">
-                    <a href="{{ site.tumblr }}" class="tumblr"><i class="fa fa-tumblr"></i></a>
-                </li>
-                {% endif %} {% if site.pinterest %}
-                <li class="social">
-                    <a href="{{ site.pinterest }}" class="pinterest"><i class="fa fa-pinterest"></i></a>
-                </li>
-                {% endif %} {% if site.instagram %}
-                <li class="social">
-                    <a href="{{ site.instagram }}" class="instagram"><i class="fa fa-instagram"></i></a>
-                </li>
-                {% endif %} {% if site.twitter %}
-                <li class="social">
-                    <a href="{{ site.twitter }}" class="twitter"><i class="fa fa-twitter"></i></a>
-                </li>
-                {% endif %} {% if site.facebook %}
-                <li class="social">
-                    <a href="{{ site.facebook }}" class="facebook"><i class="fa fa-facebook"></i></a>
-                </li>
-                {% endif %} {% if site.youtube %}
-                <li class="social">
-                    <a href="{{ site.youtube }}" class="youtube"><i class="fa fa-youtube"></i></a>
-                </li>
-                {% endif %} {% if site.vimeo %}
-                <li class="social">
-                    <a href="{{ site.vimeo }}" class="vimeo"><i class="fa fa-vimeo-square"></i></a>
-                </li>
-                {% endif %} {% if site.soundcloud %}
-                <li class="social">
-                    <a href="{{ site.soundcloud }}" class="soundcloud"><i class="fa fa-soundcloud"></i></a>
+                    <a href="mailto:{{ site.email }}" class="facebook">
+                        <img src="/img/email.png" alt = "email" title="Email" style="width:24px; height:24px; margin-left: 5px; margin-right: 5px;">
+                    </a>
                 </li>
                 {% endif %}
+                
+                {% if site.quora %}
+                <li class="social">
+                    <a href="https://www.quora.com/profile/Samyak-Choudhary{{ site.quora }}" class="tumblr">
+                        <img src="/public/quora.png" title="Quora" style="width:24px; height:24px; margin-left: 9px; margin-right: 5px;">
+                    </a>
+                </li>
+                {% endif %}
+                
+                {% if site.facebook %}
+                <li class="social">
+                    <a href="https://www.facebook.com/{{ site.facebook }}" class="facebook">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
+                {% endif %}
+                
+                {% if site.instagram %}
+                <li class="social">
+                    <a href="{{ site.instagram }}" class="instagram">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                </li>
+                {% endif %} 
+                
+                {% if site.linkedin %}
+                <li>
+                    <a href="https://in.linkedin.com/in/{{ site.linkedin }}">
+                        <img src="img/linkedin.png" alt = "LinkedIn" title="LinkedIn" style="width:24px; height:24px; margin-left: 5px; margin-right: 5px;">
+                    </a>
+                </li>                
+                {% endif %}
+                
+                {% if site.pinterest %}
+                <li class="social">
+                    <a href="https://www.pinterest.com/{{ site.pinterest }}" class="pinterest">
+                        <i class="fa fa-pinterest"></i>
+                    </a>
+                </li>
+                {% endif %} 
+                
+                {% if site.twitter %}
+                <li class="social">
+                    <a href="https://twitter.com/{{ site.twitter }}" class="twitter">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </li>
+                {% endif %} 
+                
+                {% if site.youtube %}
+                <li class="social">
+                    <a href="https://www.youtube.com/channel/{{ site.youtube }}" class="youtube">
+                        <i class="fa fa-youtube"></i>
+                    l</a>
+                </li>
+                {% endif %}
+                
             </ul>
         </nav>
         <a href='#menu' class="toggle-link noline">
