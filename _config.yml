@@ -43,7 +43,7 @@ exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_
 
 # prose.io configurations
 prose:
-  media: ""
+  media: "img"
   metadata:
     _posts:
       - name: "title"
