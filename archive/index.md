@@ -1,5 +1,5 @@
 ---
-layout: page-material-sidebar-left
+layout: page-classic-sidebar-right
 title: Archive
 ---
 #### by Month
