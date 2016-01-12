@@ -8,7 +8,7 @@ published : true
 > _“Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crack-pot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost.”_ - Thomas J. Watson
 
 
-![samyak_2015.jpg]({{site.baseurl}}/img/samyak_2015.jpg =1566x1000)
+![samyak_2015.jpg]({{site.baseurl}}/img/samyak_2015.jpg)
 
 **Hello visitor ! My name is Samyak Choudhary.**
 
