@@ -1,7 +1,7 @@
 ---
 author: Samyak Choudhary
 layout: page-full
-title: ABOUT
+title: About
 featimg: samyak_2015.jpg
 published : true
 ---
