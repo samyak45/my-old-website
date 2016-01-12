@@ -15,6 +15,7 @@ published : true
 
 I am a Computer Science undergraduate at Indian Institute of Technology (IIT), Roorkee and this is my personal blog - a miscellaneous collection of thoughts, ideas and events outlining (and shaping) my divergent world view.
 
+
 Often tagged with labels of freethinker and devil’s advocate, I proclaim myself to be curious and radical person, overhauling existing existing belief systems and conventional ideas, trying to answer the “WHYs” tormenting my brain and find ways to improve my life and the lives of those around me.
 
 
@@ -36,7 +37,7 @@ As someone deeply inspired by “misfit” entrepreneurs like Steve Jobs and Ric
 This blog will be about my narrations along the path to acquire knowledge as I keep on exploring new horizons, questioning prevailing modes of thought and searching for ways to make this a more lively planet .
 
 
-Thinking of contacting me ? Have questions or suggestions ? Or just want to say hi ?
+Thinking of contacting me ? Have questions or suggestions ?
 Feel free to drop me an email at samyak.choudhary@gmail.com .
 
 
