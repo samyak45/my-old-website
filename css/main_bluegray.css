@@ -2774,12 +2774,15 @@ article {
   height: 100%;
   position: fixed;
   top: 0;
-  background: cyan;
+  background: #00BCD4;
+  color: #CFD8DC;
   z-index: 111;
   overflow-y: auto;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
   transition: .3s all ease; }
+  .material-sidebar h1, .material-sidebar h2, .material-sidebar h3 {
+    color: #FFFFFF; }
   .material-sidebar .row {
     padding: 20px;
     border-bottom: 1px solid rgba(160, 160, 160, 0.2); }
