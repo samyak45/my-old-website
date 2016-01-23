@@ -2582,7 +2582,7 @@ article {
   .content-container article {
     padding: 20px; }
     .content-container article p {
-      padding: 0; }
+      padding: 10px; }
   .index article h1, .index article p, .index article span {
     padding: 0 20px; }
   article img {
