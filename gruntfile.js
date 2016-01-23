@@ -101,11 +101,9 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: {
-                    'css/main_black.css': 'sass/main_black.scss',
+                    'css/main_bluegray.css': 'sass/main_bluegray.scss',
                     'css/grid.css': 'sass/grid.scss',
-                    'css/classic.css': 'sass/classic.scss',
-                    // you may want to remove these for your site
-                    //'css/main_teal.css': 'sass/main_teal.scss'
+                    'css/classic.css': 'sass/classic.scss'
                 }
             }
         },
@@ -177,8 +175,8 @@ module.exports = function (grunt) {
             },
             pages: {
                 options: {
-                    remote: 'git@github.com:DigitalMindCH/gridster-jekyll-theme.git', // change that
-                    branch: 'gh-pages' // adjust here
+                    remote: 'git@github.com:samyak45/samyak45.github.io.git', // change that
+                    branch: 'master' // adjust here
                 }
             }
         },
