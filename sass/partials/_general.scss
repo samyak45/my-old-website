@@ -19,7 +19,7 @@ body{
     $fontsize: ($h1-fontsize + 0.64) - ($i * 0.64);
     h#{$i}{
         font-size: $fontsize; 
-        line-height: 1.1*$fontsize; 
+        line-height: 1.5*$fontsize; 
         // margin: ($fontsize / 2) 0 ($fontsize / 2.5) 0;
         a{
             font-weight: inherit; 
