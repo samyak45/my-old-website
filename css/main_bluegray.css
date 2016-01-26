@@ -1762,7 +1762,7 @@ i, em {
 
 html, body {
   font-family: "Roboto", "Calibri", "Arial", sans-serif;
-  font-size: 17px;
+  font-size: 20px;
   font-weight: 300; }
 
 body {
@@ -1960,37 +1960,37 @@ body {
 
 h1 {
   font-size: 4.2rem;
-  line-height: 4.62rem; }
+  line-height: 6.3rem; }
   h1 a {
     font-weight: inherit; }
 
 h2 {
   font-size: 3.56rem;
-  line-height: 3.916rem; }
+  line-height: 5.34rem; }
   h2 a {
     font-weight: inherit; }
 
 h3 {
   font-size: 2.92rem;
-  line-height: 3.212rem; }
+  line-height: 4.38rem; }
   h3 a {
     font-weight: inherit; }
 
 h4 {
   font-size: 2.28rem;
-  line-height: 2.508rem; }
+  line-height: 3.42rem; }
   h4 a {
     font-weight: inherit; }
 
 h5, .widget .title {
   font-size: 1.64rem;
-  line-height: 1.804rem; }
+  line-height: 2.46rem; }
   h5 a, .widget .title a {
     font-weight: inherit; }
 
 h6 {
   font-size: 1rem;
-  line-height: 1.1rem; }
+  line-height: 1.5rem; }
   h6 a {
     font-weight: inherit; }
 
