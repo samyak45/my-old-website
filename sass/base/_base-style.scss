@@ -21,7 +21,7 @@ body{
 
 // Headings
 h1, h2, h3, h4, h5, h6{
-    line-height: 1;
+    line-height: 1.2;
     padding: 10px 0px;
 
     @if $headings-text-transform != none{
@@ -182,7 +182,8 @@ pre{
         padding: 10px 20px;
         border-left: $blockquote-border;
         margin: 15px 0 0 10px;
-        font-size: 1.1em;
+        font-size: 1.2 * $root-font-size;
+		color: $gray;
     }
 }
 
