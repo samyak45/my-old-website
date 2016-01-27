@@ -5,7 +5,7 @@ featimg: samyak_2015.jpg
 published : true
 ---
 
-> _“Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crack-pot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost.”_ - Thomas J. Watson
+> “Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crack-pot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost.”
 
 
 **Hello visitor ! My name is Samyak Choudhary.**
@@ -20,14 +20,14 @@ Before being smitten by the bug of entrepreneurship, I intended to become a Data
 
 Lately, I have developed a budding interest in Finance, Computational Investing and the Stock Market. I have been exploring these areas through online courses and web articles. I believe a fundamental understanding of finance and economics is essential for everyone for paving the road to personal and societal prosperity, and financial education can mean the difference between a dream achieved or a dream deferred. 
 
-> “You don't learn to walk by following rules. You learn by doing, and by falling over.” - Richard Branson
+> “You don't learn to walk by following rules. You learn by doing, and by falling over.”
 
 As someone deeply inspired by “misfit” entrepreneurs like Steve Jobs and Richard Branson, I believe pushing boundaries and changing systems is the only way to bring around true innovation and development. 
 
 This blog will be about my narrations along the path to acquire knowledge as I keep on exploring new horizons, questioning prevailing modes of thought and searching for ways to make this a more lively planet .
 
 Thinking of contacting me ? Have questions or suggestions ?
-Feel free to drop me an email at **samyak.choudhary@gmail.com** .
+Feel free to <a href = "mailto:samyak.choudhary@gmail.com">drop me an email</a>.
 
 
 
