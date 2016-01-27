@@ -2,11 +2,12 @@
 .has-no-sidebar{   
     .margin{
         .content{
-            //@include flexbox(row-reverse, wrap, space-between, flex-start);
+            //@include flexbox(row-reverse, wrap, space-between, flex-start);	
             .content-container,
             .articles{
-                $subs: $margin-width + $sidebar-width;
-                width: calc(100% - #{$subs});
+//                $subs: $margin-width + $sidebar-width;
+  //              width: calc(100% - #{$subs});
+					width: 70%;
             }
 
             @media screen and (max-width: $sidebarcollapse){
