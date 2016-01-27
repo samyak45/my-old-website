@@ -1762,7 +1762,7 @@ i, em {
 
 html, body {
   font-family: "Roboto", "Calibri", "Arial", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300; }
 
 body {
@@ -1863,7 +1863,7 @@ blockquote {
   padding: 10px 20px;
   border-left: 2px solid rgba(0, 0, 0, 0.3);
   margin: 15px 0 0 10px;
-  font-size: 24px;
+  font-size: 21.6px;
   color: #727272; }
 
 dl {
