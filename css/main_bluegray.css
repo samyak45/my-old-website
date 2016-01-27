@@ -2681,7 +2681,8 @@ article {
 
 .content-container {
   width: 100%;
-  line-height: 110%; }
+  line-height: 150%;
+  font-size: 19.8px; }
   .content-container .post-title {
     color: #000000;
     padding: 10px 0; }
@@ -2720,7 +2721,7 @@ article {
 
 .has-no-sidebar .margin .content .content-container,
 .has-no-sidebar .margin .content .articles {
-  width: 70%; }
+  width: 80%; }
 @media screen and (max-width: 1330px) {
   .has-no-sidebar .margin .content {
     display: flex;
