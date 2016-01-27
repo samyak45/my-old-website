@@ -2718,6 +2718,21 @@ article {
   .content-container > p {
     padding: 2px 0; }
 
+.has-no-sidebar .margin .content .content-container,
+.has-no-sidebar .margin .content .articles {
+  width: calc(100% - 270px); }
+@media screen and (max-width: 1330px) {
+  .has-no-sidebar .margin .content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center; }
+    .has-no-sidebar .margin .content .content-container,
+    .has-no-sidebar .margin .content .articles {
+      width: 100%;
+      margin-bottom: 30px; } }
+
 .classic-sidebar {
   width: 240px;
   background: white;

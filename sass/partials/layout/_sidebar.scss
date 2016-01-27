@@ -1,3 +1,26 @@
+//no sidebar
+.has-no-sidebar{   
+    .margin{
+        .content{
+            //@include flexbox(row-reverse, wrap, space-between, flex-start);
+            .content-container,
+            .articles{
+                $subs: $margin-width + $sidebar-width;
+                width: calc(100% - #{$subs});
+            }
+
+            @media screen and (max-width: $sidebarcollapse){
+                @include flexbox(column, wrap, flex-start, center);
+                .content-container,
+                .articles{
+                    width: 100%;
+                    margin-bottom: $margin-width;
+                }
+            }
+        }
+    }
+}
+
 // classic sidebar styles
 .classic-sidebar{
     width: $sidebar-width;
