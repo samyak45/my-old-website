@@ -3,7 +3,7 @@ name: Samyak Choudhary
 description:  A Computer Science undergraduate at Indian Institute of Technology, Roorkee
 logo: logo.png
 destination: jekyllbuild
-url: #place url
+url: samyakchoudhary.com
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
@@ -14,7 +14,7 @@ tag_dir: /tag
 category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
-media_folder: /media/compressed
+media_folder: img #/media/compressed
 author_default_avatar: /profile-pic.JPG
 
 instagram: samyak.choudhary
@@ -31,9 +31,10 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post-material-sidebar-left"
+      layout: "post-material-sidebar-right"
       type: "standard"
       homedisplay: "featimg"
+
 markdown: kramdown
 kramdown:
   input: GFM
