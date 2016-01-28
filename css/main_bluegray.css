@@ -2721,7 +2721,9 @@ article {
 
 .has-no-sidebar .margin .content .content-container,
 .has-no-sidebar .margin .content .articles {
-  width: 80%; }
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto; }
 @media screen and (max-width: 1330px) {
   .has-no-sidebar .margin .content {
     display: flex;
