@@ -29,7 +29,7 @@ As someone deeply inspired by “misfit” entrepreneurs like Steve Jobs and Ric
 This blog will be about my narrations along the path to acquire knowledge as I keep on exploring new horizons, questioning prevailing modes of thought and searching for ways to make this a more lively planet .
 
 Thinking of contacting me ? Have questions or suggestions ?
-Feel free to drop an email at <a href = "mailto:samyak.choudhary@gmail.com">samyak.choudhary@gmail.com</a>.
+Feel free to drop an email at <a href = "mailto:samyakchoudhary@gmail.com">samyakchoudhary@gmail.com</a>.
 
 
 
