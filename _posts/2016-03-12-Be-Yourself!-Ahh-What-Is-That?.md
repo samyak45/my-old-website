@@ -13,7 +13,7 @@ Did you know that ^^ ? Well I didn’t, but all I needed to do was type “defin
 
 Google’s dictionary feature (“define [word]” feature) is really cool. Need to make sure using the right word <in a pinch>, wish to know the correct pronunciation, or looking for a pretentious synonym for your email/blogpost/mag-article/class-presentation … Google dictionary is the feature to resort to!
 
-“Words are easy, people are not.” - Anonymous (all anonymous quotes used throughout the domain samyakchoudhary.com are actually SCQs)
+> “Words are easy, people are not.” - Anonymous (all anonymous quotes used throughout the domain samyakchoudhary.com are actually SCQs)
 
 Alas, if words were all that were required to understand this complicated place we call ‘world’, humans would have longer strides in, ahh… , everything. (And news and media wouldn’t have been flooded with <some trending, stupid debate - freebasics?).
 
@@ -44,8 +44,6 @@ Me : I don’t know, looking for a change I guess. (gives a fake laughter)
 
 Me (think to myself) : perhaps because till now I had been the intersection of what you wanted me to be and what I could be … but not what I wanted to be. And the physics thing, that was class 10th!
 
-<-- Now adopt a serious tone --> 
-
 Defining our own personal identity can take a lifetime and to complicate matters, our identity changes throughout that period whether or not we consciously undertake a process of personal development.
 
 The biggest hurdle in defining ourselves comes when there is a conflict of definition between how society defines us and how we define ourselves.
@@ -70,17 +68,13 @@ We all can dream a far bigger dream than anybody can indicate for us. Unfortunat
 
 Battling the majority opinion is difficult, and majority of us end up getting conquered. We tend to forget our version of us. Most of the times the hints are too subtle and <> to <>.
 
-//Yet, we so often forget who we really are. The 
-
-
-
 In a world <with what>, the question “Who am I” is so underrated. Yet this is the pivotal question on which the course of our entire life matters. 
 
 Of course, personal identification goes beyond name, age, family background, job or educational qualifications. It is much deeper than that. It is about what values we live by, what do we strive to achieve, what do we wish to be recognized for, what do we intend to be remembered as, what do we desire to be as an individual.
 
 Personal identification matters. The mind operates differently depending on how self is recognized. <elaborate> 
 
-“Lie to anyone but yourself” - Anonymous
+> “Lie to anyone but yourself” - Anonymous
 
 Self definition is the one area where dishonesty comes at a great personal cost. Dishonesty, when defining oneself can lead to missed opportunities and can become the barrier to an honest feedback.
 
