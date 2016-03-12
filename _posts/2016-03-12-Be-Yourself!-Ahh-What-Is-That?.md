@@ -56,37 +56,33 @@ The world (and my life) seems to be overly saturated with people hardwired to ju
 
 (Btw, jumping to conclusions is a recognized cognitive distortion!)
 
-Every guy (or girl) who loves maths or physics in school is not into research, every computer science major is not a nerd, and every <what> is not a <what>. But it is a stereotypical world out there.
+Every guy (or girl) who loves maths or physics in school is not into research, every computer science major is not a nerd, and every playful conversationalist is not a flirt. But then it is a stereotypical world out there.
 
 Have you watched the Ted Talk by Jon Ronson on “How one tweet can ruin your life” ? If you haven’t, watch it sometime when you are not busy scrolling down <adj> Facebook news feed. It is about how social media shaming over a misinterpreted tweet can ruin. It got me thinking I can do a Ted Talk on “How one chat can change your life” (and I realized one needs to be invited to give a Ted Talk, and I don’t have an invite).
 
-I won’t trouble my busy reader with the details of the <dramatic story> of how my susceptibility to accept challenges and <a what type of girl> led to <what>. (middle finger to the sneering readers who know the story). The climax of the <season> was me standing on the <wall> of my best friend’s, hostel room’s, fifth floor balcony and contemplating a <high jump/_ ft dive into pure concrete below>. Fortunately (unfortunately ?), I changed my mind. I love being famous but not with a with a distorted face, cracked skull picture of me being published in media!. (and to be a little more honest, I was wearing really tight jeans. I don’t know if people get to change clothes in afterlife but I was not taking any chances xD ).
-
-
+I won’t trouble my busy reader with the details of the <dramatic story> of how my susceptibility to accept challenges and <a what type of girl> led to <what>. (middle finger to the sneering readers who know the story). The climax comprised of me standing on my best friend’s fifth floor balcony railing and contemplating a _ft dive into solid concrete below. Fortunately (unfortunately ?), I changed my mind. I love being famous but not with a with a distorted face, cracked skull picture of me being published in media!. (and to be a little more honest, I was wearing really tight jeans. I don’t know if people get to change clothes in afterlife but I was not taking any chances xD ).
 
 No regrets though because what followed was pure epiphany. 
 
-<ab gyan bato!>
-
 In moments of dissonance between who we think we are and what society says we are, the truth that wins is the one WE CHOOSE to believe. We are bestowed with choice, to choose the truth that determines our future - who we are, who we can be, what values we can have, what we can achieve.
 
-We all can dream a far bigger dream than <society/anybody else> can indicate for any of us. Unfortunately, we let stigma of <abnormality> curb our <ambition / wings / aspirations> and are subdued by tyranny of low (realistic?) ambition.
+We all can dream a far bigger dream than anybody can indicate for us. Unfortunately, we often let fear of social stigma curb our aspirations and are subdued by tyranny of low (realistic?) ambition.
 
-Battling <> is difficult, and most of us end up getting conquered by <>. We tend to forget our version of us and begin to believe <>. Most of the times the hints are too subtle and <> to <>.
+Battling the majority opinion is difficult, and majority of us end up getting conquered. We tend to forget our version of us. Most of the times the hints are too subtle and <> to <>.
 
 //Yet, we so often forget who we really are. The 
 
 
 
-In a world <with what>, the question “Who am I” is so underrated. Yet this is the pivotal question on which the course of our entire life matters.
+In a world <with what>, the question “Who am I” is so underrated. Yet this is the pivotal question on which the course of our entire life matters. 
 
-Of course, personal identification goes beyond name, age, family background, job or educational qualifications. It is much deeper than that. It is about <what>. 
+Of course, personal identification goes beyond name, age, family background, job or educational qualifications. It is much deeper than that. It is about what values we live by, what do we strive to achieve, what do we wish to be recognized for, what do we intend to be remembered as, what do we desire to be as an individual.
 
 Personal identification matters. The mind operates differently depending on how self is recognized. <elaborate> 
 
-<honesty in defining yourself>
+“Lie to anyone but yourself” - Anonymous
 
-I am a propagator of honesty, and self definition is the one area where dishonesty comes at a great personal cost. Dishonesty, when defining oneself can lead to missed opportunities and can become the barrier to an honest feedback.
+Self definition is the one area where dishonesty comes at a great personal cost. Dishonesty, when defining oneself can lead to missed opportunities and can become the barrier to an honest feedback.
 
 People tend to flinch from confrontation. (“Hey, you say you aspire to be a <>, but you aren’t good at”, “Hey, you say <> is your key strength but the other time when <> you were nothing but pathetic at <>, “Hey,...”). However, I believe the fear of others dismissing our ideas or beliefs is ill founded. Open confrontation is the best way to gain feedback. Fear <of confrontation> implies <lack of faith in oneself and one’s beliefs> and foretells stagnation.
 
@@ -96,7 +92,6 @@ If you aspire to do something but don’t have the right skillset then you will 
 We are afraid to  describe their life goals in ways that won’t make anyone point out “hey, but you are not good at ... , how can you 
 People tend to be dishonest when defining themselves to avoid.The way we define ourselves sets expectations. Impersonating as someone 
 */
-
 At other times we end up imposing us as “the right fit” to be at a particular place or with a particular person. Nothing wrong with faking as long as <>. 
 
 However, most of us are mislead into believing we need to be typecasted and well shaped . e realize that we don’t fit well into the mould of whoever or whatever we plan to be and, flinch from describing ourselves 
