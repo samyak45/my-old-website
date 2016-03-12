@@ -10,7 +10,9 @@ published : true
 
 **Hello visitor ! My name is Samyak Choudhary.**
 
-I am a Computer Science undergraduate at Indian Institute of Technology (IIT), Roorkee and this is my personal blog - a miscellaneous collection of thoughts, ideas and events outlining (and shaping) my divergent world view.
+I am a Computer Science undergraduate at Indian Institute of Technology (IIT), Roorkee and possibly the most unashamedly ambitious person you know. I life ambition is to build a tech or finance company from the ground up, that accomplishes truly amazing things on a global scale (think FORTUNE 500).
+
+This is my personal blog - a miscellaneous collection of thoughts, ideas and events outlining (and shaping) my divergent world view.
 
 Often tagged with labels of freethinker and devil’s advocate, I proclaim myself to be a curious and radical person, overhauling existing existing belief systems and conventional ideas, trying to answer the “WHYs” tormenting my brain and find ways to improve my life and the lives of those around me.
 
