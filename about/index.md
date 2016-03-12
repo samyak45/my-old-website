@@ -10,7 +10,7 @@ published : true
 
 **Hello visitor ! My name is Samyak Choudhary.**
 
-I am a Computer Science undergraduate at Indian Institute of Technology (IIT), Roorkee and possibly the most unashamedly ambitious person you know. I life ambition is to build a tech or finance company from the ground up, that accomplishes truly amazing things on a global scale (think FORTUNE 500).
+I am a Computer Science undergraduate at Indian Institute of Technology (IIT), Roorkee and possibly the most unashamedly ambitious person you know. My life ambition is to build a tech or finance company from the ground up, that accomplishes truly amazing things on a global scale (think FORTUNE 500).
 
 This is my personal blog - a miscellaneous collection of thoughts, ideas and events outlining (and shaping) my divergent world view.
 
