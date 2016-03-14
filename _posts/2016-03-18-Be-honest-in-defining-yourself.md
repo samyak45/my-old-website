@@ -1,7 +1,7 @@
 ---
 title: Be honest in defining yourself (Coming Soon!)
 author: Samyak Choudhary
-layout: page-material-sidebar-right
+layout: page-no-sidebar
 featimg: define_yourself.jpg
 categories : []
 tags : []

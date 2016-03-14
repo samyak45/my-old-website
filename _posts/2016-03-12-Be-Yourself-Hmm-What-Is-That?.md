@@ -1,7 +1,7 @@
 ---
 title: Be Yourself! ... Hmm, What is that?
 author: Samyak Choudhary
-layout: page-material-sidebar-right
+layout: page-no-sidebar
 featimg: iam.jpg
 categories : [Personal Story]
 tags : []

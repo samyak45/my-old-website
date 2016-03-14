@@ -1,7 +1,7 @@
 ---
 title: How one chat can change your life (Coming Soon!)
 author: Samyak Choudhary
-layout: page-material-sidebar-right
+layout: page-no-sidebar
 featimg: girlintheiit.png
 categories : [Personal Story]
 tags : [Pilot]
