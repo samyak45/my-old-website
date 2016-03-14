@@ -30,19 +30,19 @@ Apparently, even Google’s tremendous processing power of over 100 petaflops, m
 
 In case you have not been able to move ahead of the question “Who is this person I was so keen on figuring out” - well he goes by the name ‘Samyak Choudhary’. (No clicks? Hint : You are reading his blog right now.)
 
-I remember having the following conversation with my dad just few days before arriving at IITR. (I am not actually certain whether it ‘actually’ happened or was it just in my mind. Given the amount of time ‘hypothetical’ conversations run in my head, it’s difficult to distinguish between the two.) :
+I remember having the following conversation with my dad just few days before arriving at IITR. (I am not certain whether it ‘actually’ happened or was it just in my mind. Given the amount of time ‘hypothetical’ conversations run in my head, it’s difficult to distinguish between the two.) :
 
-  *Me* (filled with the ‘just cleared JEE enthusiasm’, with sparkling cheerful eyes) : Dad, college begins in a week now and I have no idea of what I will be like. How will I present myself ? What kind of people will I meet, will they be like me or will they be like most of my school mates? What can I do make people like me and to make new friends ? I don’t want IIT life to be like JEE, I wish to have fun but I also plan higher studies and have to be good in academics ...
+  **Me** (filled with the ‘just cleared JEE enthusiasm’, with sparkling cheerful eyes) : Dad, college begins in a week now and I have no idea of what I will be like. How will I present myself ? What kind of people will I meet, will they be like me or will they be like most of my school mates? What can I do make people like me and to make new friends ? I don’t want IIT life to be like JEE, I wish to have fun but I also plan higher studies and have to be good in academics ...
 
-  *Dad* : Wow, slow down! Just be yourself, don’t shy away from talking with people and everything will be great.
+  **Dad** : Wow, slow down! Just be yourself, don’t shy away from talking with people and everything will be great.
 
-  *Me* : Be myself, but I don’t know who I am or what I will like to do or ...
+  **Me** : Be myself, but I don’t know who I am or what I will like to do or ...
 
-  *Dad* (with a puzzled look) : Why, I thought you were certain you wanted to do research in Physics, do a Phd from .. and seem to be too obsessed with trying to become popular now, I don’t remember you being concerned about it earlier in school. Why this sudden change ?
+  **Dad** (with a puzzled look) : Why, I thought you were certain you wanted to do research in Physics, do a Phd from .. and seem to be too obsessed with trying to become popular now, I don’t remember you being concerned about it earlier in school. Why this sudden change ?
 
-  *Me* : I don’t know, looking for a change I guess. (gives a fake laughter)
+  **Me** : I don’t know, looking for a change I guess. (gives a fake laughter)
 
-  *Me (think to myself)* : perhaps because till now I had been the intersection of what you wanted me to be and what I could be … but not what I wanted to be. And the physics thing, that was class 10th!
+  **Me (think to myself)** : perhaps because till now I had been the intersection of what you wanted me to be and what I could be … but not what I wanted to be. And the physics thing, that was class 10th!
 
 Defining our own personal identity can take a lifetime and to complicate matters, our identity changes throughout that period whether or not we consciously undertake a process of personal development.
 
@@ -64,9 +64,9 @@ Someday, when you are in the mood of reading a rather dramatic story of how my f
 
 The climax of the story comprises of me standing on my best friend’s fifth floor balcony railing and contemplating a 60ft dive into solid concrete below.
 
-Fortunately (unfortunately ?), I changed my mind. I love being famous but not with a with a distorted face, cracked skull picture of me being published in media!. 
+Fortunately (unfortunately?), I changed my mind. I love being famous but not with a with a distorted face, cracked skull picture of me being published in media! 
 
-(and to be a little more honest, I was wearing really tight jeans. I don’t know if people get to change clothes in afterlife but I was not taking any chances xD ).
+(and to be a little more honest, I was wearing really tight jeans. I don’t know if people get to change clothes in afterlife but I was not taking any chances. :D ).
 
 No regrets though because what followed was pure epiphany.
 
@@ -86,6 +86,6 @@ Personal identification matters. The mind operates differently depending on how 
 
 Anyway, I guess I should stop droning now. Too much of deep stuff to digest already and I don’t want my reader to spend the entire night introspecting (being an insomniac, I am well acquainted with the price of sleepless nights). Just remember, while you won’t get a medal for how you define yourself, nor will it help in increasing your grade point (it might actually bring it down!), self-definition matters because your life depends on it. Don’t be swayed by other's opinions on who you are because no one gets to decide that but yourself (however, that does not mean shutting yourself off from feedback!). 
 
-And ya, <a hreaf = "../Be-honest-in-defining-yourself">self definition is an area where one needs to be completely honest </a> because dishonesty, in this domain, comes at a great personal cost.
+And yeah, <a hreaf = "../Be-honest-in-defining-yourself">self definition is an area where one needs to be completely honest </a> because dishonesty, in this domain, comes at a great personal cost.
 
 Peace Out.
