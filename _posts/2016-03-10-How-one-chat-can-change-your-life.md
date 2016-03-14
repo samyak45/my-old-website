@@ -25,7 +25,7 @@ Main charaters :
 
   + **bandi_ka_banda** (**the_bandi**'s boyfriend)
 
-  + **not_so_righteous_acquaintance** (a mutual acquaintance who proclaims righteousness but proves to otherwise)
+  + **not_so_righteous_acquaintance** (a mutual acquaintance who proclaims righteousness but proves otherwise)
 
   + **the_saviour** (**chalenge_lene_wala**'s close friend)
 
