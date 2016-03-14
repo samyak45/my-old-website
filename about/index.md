@@ -22,7 +22,7 @@ Before being smitten by the bug of entrepreneurship, I intended to become a Data
 
 Lately, I have developed a budding interest in Finance, Computational Investing and the Stock Market. I have been exploring these areas through online courses and web articles. I believe a fundamental understanding of finance and economics is essential for everyone for paving the road to personal and societal prosperity, and financial education can mean the difference between a dream achieved or a dream deferred.  
 
-Any entrepreneurial story is incomplete without the concept of social enterprise, and an overwhelming desire to "do good" has taken over me. While exploring the domain of Social Entrepreneurship, I caught the wind of <a href = "enactus.org">Enactus</a>. I endeavour to have IIT Roorkee participate in Enactus (first time ever) in 2017 and currently I am working on building a team for the same.
+Any entrepreneurial story is incomplete without the concept of social enterprise, and an overwhelming desire to "do good" has taken over me. While exploring the domain of Social Entrepreneurship, I caught the wind of [Enactus](http://enactus.org/). I endeavour to have IIT Roorkee participate in Enactus (first time ever) in 2017 and currently I am working on building a team for the same.
 
 > “You don't learn to walk by following rules. You learn by doing, and by falling over.”
 
