@@ -2,7 +2,7 @@
 title: How one chat can change your life (Coming Soon!)
 author: Samyak Choudhary
 layout: page-no-sidebar
-featimg: girlintheiit.png
+featimg: girlintheiit.jpg
 categories : [Personal Story]
 tags : [Pilot]
 published : true
@@ -25,7 +25,7 @@ Main charaters :
 
  -*bandi_ka_banda* (*the_bandi*'s boyfriend)
 
- -*not_so_righteous_hypocrite* (a mutual acquaintance who proclaims righteousness but proves to be otherwise)
+ -*not_so_righteous_acquaintance* (a mutual acquaintance who proclaims righteousness but proves to otherwise)
 
  -*the_saviour* (*chalenge_lene_wala*'s close friend)
 
