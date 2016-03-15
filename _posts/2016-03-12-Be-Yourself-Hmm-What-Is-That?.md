@@ -62,7 +62,7 @@ Someday, when you are in the mood of reading a rather dramatic story of how my f
 
 (I would insist you to click on the above hyperlink right away, read the story and come back here)
 
-The climax of the story comprises of me standing on my best friend’s fifth floor balcony railing and contemplating a 60ft dive into solid concrete below.
+The climax of the story comprises of me standing on my best friend’s fifth floor balcony railing and contemplating a 60ft plunge into solid concrete below.
 
 Fortunately (unfortunately?), I changed my mind. I love being famous but not with a with a distorted face, cracked skull picture of me being published in media! 
 
