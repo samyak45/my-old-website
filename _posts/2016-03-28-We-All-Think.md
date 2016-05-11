@@ -9,9 +9,7 @@ published : true
 ---
 
   + Do people think as much as I do?
-
   + Do people think what I think about?
-
   + Do people even think? 
 
 > “Five percent of the people think; ten percent of the people think they think; and the other eighty-five percent would rather die than think.” ― Thomas A. Edison
@@ -24,15 +22,7 @@ I pondered over simple things. Things so absurdly simple, people don't pay atten
 
 Do people think? Do they think as I think? Do they realize the power of thought? My thoughts questioned the concept of reality. The very existence of beings.
 
-```yml
----
-type: gallery
-gallery:
-    - images:
-      - filename: ccd-sizzle-dazzle-brownie.jpg
-        alttext: izzle Dazzle Brownie
----
-```
+![Sizzle Dazzle Brownie](samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg)
 
 Tiny droplets from the melting vanilla ice-cream atop the brownie dribble down as time decides to slow-down.
 
@@ -87,7 +77,6 @@ Undeniably we humans are thinking machines. A more conclusive measure of our thi
 >For those who are unable to figure out what I mean by range and depth: 
 
   + range = number of possibilities we can consider
-
   + depth = length of the sequence of IF-THEN_ELSE rules we can consider
 
 But capacity alone seems to be inadequate. When analyzing the quality of our thoughts, it is not as much a question of capacity to think as much as it is a question of [choosing what to think](samyakchoudhary.com/axioms-of-maturity/). 
@@ -106,15 +95,7 @@ The researchers of [quantitative psychology](https://en.wikipedia.org/wiki/Quant
 
 The AI-geek in me likes to visualize this in the form of a "thought-forest" comprising of "thought-trees" (inspirations credits : random forests, decision trees, and minimax). The number of uncorrelated trees in the forest a representative of diversity, the head of these trees corresponding to the subject-matter of our thoughts, the branching factor an indicator of the range of our thoughts and tree depth a measure of the depth of our thinking process. 
 
-```yml
----
-type: gallery
-gallery:
-    - images:
-      - filename: thought_forest.png
-        alttext: Thought-Forest
----
-```
+![Thought-Forest](samyakchoudhary.com/img/thought_forest.png)
 
 We all think. (And we all consider others who don't think in the same dimension as ours as beings of lower intellect). Period.
 
