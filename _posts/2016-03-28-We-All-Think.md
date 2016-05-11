@@ -24,7 +24,7 @@ Do people think? Do they think as I think? Do they realize the power of thought?
 
 [//]: # <img src="samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg">
 
-![Sizzle Dazzle Brownie](samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg)
+![Sizzle Dazzle Brownie](http://samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg)
 
 Tiny droplets from the melting vanilla ice-cream atop the brownie dribble down as time decides to slow-down.
 
@@ -99,7 +99,7 @@ The AI-geek in me likes to visualize this in the form of a "thought-forest" comp
 
 [//]: # <img src = "samyakchoudhary.com/img/thought_forest.png">
 
-![Thought-Forest](samyakchoudhary.com/img/thought_forest.png)
+![Thought-Forest](http://samyakchoudhary.com/img/thought_forest.png)
 
 We all think. (And we all consider others who don't think in the same dimension as ours as beings of lower intellect). Period.
 
