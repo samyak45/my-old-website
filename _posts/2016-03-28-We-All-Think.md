@@ -2,10 +2,10 @@
 title: We All Think
 author: Samyak Choudhary
 layout: page-no-sidebar
-featimg: 
+featimg: Deep-Thinker.jpg
 categories : []
 tags : [Psychology]
-published : false
+published : true
 ---
 
   +Do people think as much as I do?
@@ -21,6 +21,8 @@ I could see the sizzling choco sauce in my 'Sizzle Dazzle Brownie'. "See" - That
 I pondered over simple things. Things so absurdly simple, people don't pay attention to them. Yet when you give them thought, they are much complicated that the most complex equations.
 
 Do people think? Do they think as I think? Do they realize the power of thought? My thoughts questioned the concept of reality. The very existence of beings.
+
+![Sizzle Dazzle Brownie](samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg)
 
 Tiny droplets from the melting vanilla icecream atop the brownie dribble down and time seems to have moved into an extremely slow pace.
 
@@ -54,7 +56,7 @@ I take my attention away from their conversation because I know what all follows
 
 It's the one of the popular "meaningless" conversation that tempts me to make an artificial intelligence bot - "Make engineering student speak" to parrot our everyday natter.(inpiration credits : [DeepDrumpf](https://www.gconew.com/tech/211678/atdeepdrumpf-is-an-ai-powered-twitterbot-that-tweets-like-donald-trump.html) ). 
 
-Internship, placement, relationships (and break-ups), TV Shows, chapos, assigments - that were given a month earlier and somehow need to be completed in one evening and submitted before the midnight deadline - apparently exhausts the list of topics the myriad of conversations in IITR seem to revolve around. Ocassionally, fests, upcoming (and much needed) vacations, and upcoming (and dreaded) exams bring about the slight variety in our conversations without which even the dogs might begin to question our individuality.
+Internship, placement, relationships (and break-ups), TV Shows, chapos, assigments - that were given a month earlier and somehow need to be completed in one evening and submitted before the midnight deadline - apparently exhausts the list of topics the myriad of conversations in IITR seem to revolve around. Ocassionally, fests, upcoming (and much needed) vacations, and upcoming (and dreaded) exams bring about the slight variety in our conversations without which even the dogs might begin to question individuality of our species.
 
 (Btw, dogs can be quite amusing, especially the [Dogs of Roorkee](https://www.facebook.com/dogsofroorkee/).)
 
@@ -91,6 +93,8 @@ Human thinking is evidently multi-dimensional characterized by the range, depth,
 The researchers of [quantitative psychology](https://en.wikipedia.org/wiki/Quantitative_psychology) might give a good mathematical model to represent dimensionality of thoughts.
 
 The AI-geek in me likes to visualize this in the form of a "thought-forest" comprising of "thought-trees" (inspirations credits : random forests, decision trees and minimax). The number of uncorrelated trees in the forest a representative of diversity, the head of these trees corresponding to the subject-matter of our thoughts, the branching factor an indicator of range of our thoughts and tree depth a measure of depth of our our thinking process. 
+
+![Thought-Forest](samyakchoudhary.com/img/thought_forest.png)
 
 We all think. (And we all consider others who don't think in the same dimension as ours as beings of lower intellect). Period.
 
