@@ -104,9 +104,3 @@ The ubiquitous pop of Facebook messenger brings me back to earth. One of my clas
 "Abe aaj last date h ml ka assignment submit krne ki" (today is the last date to submit the Machine Learning assignment) I interject. We quickly finish our Sizzle Dazzle Brownies (with the vanilla ice-cream now all melted and mixed in the choco sauce) and head back to the hostel. 
 
 On the way my friend asks "By the way, have you watched this TV Show ..."
-
-``` liquid
-{% raw  %}
-{% include gallery.html %}
-{% endraw %}
-```
