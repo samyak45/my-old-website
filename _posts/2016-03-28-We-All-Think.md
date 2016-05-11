@@ -75,7 +75,6 @@ Maybe it's just that people have better things to do with their lives than askin
 Undeniably we humans are thinking machines. A more conclusive measure of our thinking capacity, than an average number of thoughts crossing our mind, would be range and depth of thoughts we can handle.
 
 >For those who are unable to figure out what I mean by range and depth: 
-
   + range = number of possibilities we can consider
   + depth = length of the sequence of IF-THEN_ELSE rules we can consider
 
