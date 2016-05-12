@@ -67,7 +67,7 @@ Probably he is right. Probably amidst the cloud of "meaningless" conversations t
 
 Maybe everyone thinks the things I think but they are either too introverted to express their thoughts or the fear of being labeled non-neurotypical holds them back. Maybe it's the lack of trust in others or maybe it's the impression that others cannot understand their "deep" thoughts. 
 
-Perhaps others have already tried and given up trying to understand why things are the way they are, why people think what they think, or why people act the way they act(topics which in my extremely humble opinion are the most important of all). 
+Perhaps others have already tried and given up trying to understand why things are the way they are, why people think what they think, or why people act the way they act (topics which in my extremely humble opinion are the most important of all). 
 
 Maybe it's just that people have better things to do with their lives than asking pointlessly “deep” questions, plucking an answer out of thin air, (and then writing a florid blogpost.)
 
