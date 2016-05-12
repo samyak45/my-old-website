@@ -22,7 +22,7 @@ I pondered over simple things. Things so absurdly simple, people don't pay atten
 
 Do people think? Do they think as I think? Do they realize the power of thought? My thoughts questioned the concept of reality. The very existence of beings.
 
-![Sizzle Dazzle Brownie](http://samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg)
+![Sizzle Dazzle Brownie](http://samyakchoudhary.com/img/ccd-sizzle-dazzle-brownie.jpg){: .center-image }
 
 Tiny droplets from the melting vanilla ice-cream atop the brownie dribble down as time decides to slow-down.
 
@@ -95,7 +95,7 @@ The researchers of [quantitative psychology](https://en.wikipedia.org/wiki/Quant
 
 The AI-geek in me likes to visualize this in the form of a "thought-forest" comprising of "thought-trees" (inspirations credits : random forests, decision trees, and minimax). The number of uncorrelated trees in the forest a representative of diversity, the head of these trees corresponding to the subject-matter of our thoughts, the branching factor an indicator of the range of our thoughts and tree depth a measure of the depth of our thinking process.
 
-![Thought-Forest](http://samyakchoudhary.com/img/thought_forest.png)
+![Thought-Forest](http://samyakchoudhary.com/img/thought_forest.png){: .center-image }
 
 We all think. (And we all consider others who don't think in the same dimension as ours as beings of lower intellect). Period.
 
