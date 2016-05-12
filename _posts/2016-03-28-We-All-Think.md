@@ -7,7 +7,6 @@ categories : []
 tags : [Psychology]
 published : true
 ---
-
   + Do people think as much as I do?
   + Do people think what I think about?
   + Do people even think? 
@@ -40,7 +39,7 @@ A trio of guys come and occupy a nearby table.
 
   One of the guys (the despo girlfriend seeker) mocks one of the other three guys - "Kya baat h, aaj usse fursat mil gyi" (Wow you managed to find time away from her). 
 
-  The no-longer-single guy gives a conceited smile (well when the college gender ratio stands at m:f if you are one of those fortunate (unfortunate) guys to have a girlfriend you are expected to feel special) and says in an artificially sad tone "han yaar aaj uske parents aye hn" (her parents are here today). 
+  The no-longer-single guy gives a conceited smile (well when the college gender ratio stands at 10:1 and you are one of those fortunate (unfortunate) guys to have a girlfriend, complacency is difficult to avoid) and says in an artificially sad tone "han yaar aaj uske parents aye hn" (her parents are here today). 
 
 (I say in an artificial sad tone because I expect his true feeling to be relief. He is relieved to have got a short respite from being a ["dancing monkey"](https://www.goodreads.com/quotes/696469-nick-and-i-we-sometimes-laugh-laugh-out-loud-at) (sorry girls, no offence intended).) 
 
@@ -54,7 +53,7 @@ His sigh is lost in the envious exclamation of the third friend -
 
 I take my attention away from their conversation because I know what all follows. 
 
-It's the one of the popular "meaningless" conversation that tempts me to make an artificial intelligence bot - "Make engineering student speak" to parrot our everyday natter.(inpiration credits : [DeepDrumpf](https://www.gconew.com/tech/211678/atdeepdrumpf-is-an-ai-powered-twitterbot-that-tweets-like-donald-trump.html) ). 
+It's the one of the popular "meaningless" conversation that tempts me to make an artificial intelligence bot - "Make engineering student speak" to parrot our everyday natter. (inpiration credits : [DeepDrumpf](https://www.gconew.com/tech/211678/atdeepdrumpf-is-an-ai-powered-twitterbot-that-tweets-like-donald-trump.html) ). 
 
 Internship, placement, relationships (and breakups), TV Shows, chapos, assignments - that were given a month earlier and somehow need to be completed in one evening and submitted before the midnight deadline - apparently exhausts the list of topics the myriad of conversations in IITR seem to revolve around. Occasionally, fests, upcoming (and much needed) vacations, and upcoming (and dreaded) exams bring about the slight variety in our conversations without which even the dogs might begin to question individuality of our species.
 
