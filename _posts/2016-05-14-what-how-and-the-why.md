@@ -50,23 +50,47 @@ As we grow older these dreams are replaced by those of 9 digit bank balances, pr
 
 Education is imperaive. It teaches us how to convert our vision into a reality. (It has taught me AI algorithms, data science, operating systems, etc). The only problem - on completing our formal education, few of us are left with any dreams to build. (I don't consider aspiration for a high-paying job, 6-digit bank balance, cozy retirement and exotic vacations as 'dreams').
 
-Some among us (the "lost" dreamers ?) manage to not lose sight of the dreams they wished to build when young but alas, these are the same people who are uninfluenced by cruddy drivers such as grades, and job. Unable to relate the process ('HOW') to their vision ('WHAT'), they often fall behind in our regimented system and fail to acquire the requisite skillset. (Advice to such co-dreamers : trust the process).
+Some among us (the "lost" dreamers ?) manage to not lose sight of the dreams they wished to build when young but alas, these are the same people who are uninfluenced by cruddy drivers such as grades, and job. Unable to relate the process ('HOW') to their vision ('WHAT'), they often fall behind in our regimented system and fail to acquire the requisite skillset. (Advice to such co-dreamers : trust the process!)
 
-Opposed to the visionaries, are the pragmatic people. Driven by short-term goals, fear and peer competition they become experts in their domain but alas the lack of vision leaves them vying for <> and eventually makes them settle into a lackadaisical life.
+Opposed to the visionaries, are the pragmatic people. Driven by short-term goals, fear and peer competition they become experts in their domain but alas the lack of vision leaves them vying for limited resources over conflicting goals. This eventually wears them out and makes them settle into a lackadaisical life in a dead-end career.
 
-I can sence <adj> readers thinking "itni hi dikkt h to tu khud hi koi trika btade is samasya se bachne ka" (if you have so much problem why don't you yourself come up with some solution). Note the 'khud hi' (yourself). Like all problems I ponder about (and have either written or plan to write a blogpost about), this too requires a cultural shift. It is not a problem a single individual or a small group of invdividuals can solve. It requires a [change in our idiosyncrasies (behaviour or way of thinking), a change in what we converse about in our everyday conversations](<we all think>) and a change in what we value in life.
+I can sense some scorching readers thinking "itni hi dikkt h to tu khud hi koi trika btade is samasya se bachne ka" {if you have so much problem why don't you yourself come up with some solution}. (Note the 'khud hi' {yourself}). (Unfortunately) Like all problems I ponder about (and have either written or plan to write an idiosyncratic blogpost about), this too requires a cultural shift. It is not a problem a single individual or a small group of invdividuals can solve. It requires a change in our belief system, a change in our attitudes, a change in our everyday conversations and a change in our what we value in life.
 
-Yeah, yeah all that sounds like something worthwhile but dude, everyone need to earn a living. <give a powerful answer, quote financial independence and stuff from your money or your life>
+Yeah, yeah all that sounds like something worthwhile but dude, everyone need to earn a living. Yes, we need money to live a comfortable and promising life however, we need to [transform our relationship with money](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/). We need to get away from our consumerist culture. Rather than viewing money as an endproduct or a way to achieve respectable societal status and to acquire ostentatious material possessions, we need to view money for what it is - a tool to lead a happy, comfortable, and fulfilling life that can be put to use to build our dreams. 
 
-The "WHAT", the "HOW" and the "WHY" are three cornerstones of <what - success, building something significant, living a more fulfilling life, etc>. The cornerstones are universal and applicable to individuals, organizations and communities alike. 
+(I will advice you to read the book ["Your Money or Your Life"](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/) and the concepts of 'Financial Intelligence', 'Financial Integrity', and 'Financial Independence' *might* change your perception of money.) 
+
+The title of this post says "What, How and the Why" and I apologize for lingering at the frontier a little too long. To my forbearing reader, bear a little longer and you might find some meaning out of this rather juvenile post in the paragraphs to follow.
+
+The "WHAT", the "HOW" and the "WHY" are three cornerstones of living a more fulfilling and meaningful life. They are universal and applicable to individuals, organizations and communities alike.
 
 The 'WHAT' gives us the vision, the 'HOW' gives us the process or methodology, and the 'WHY' gives us the reason.
 
-Without a vision individuals and enterprises would be directionless and as <the wise saying goes/ xyz told abc in Alice in Wonderland> "if you don't know where you are headed any road will take you there". Without a vision <what would happpen>.
+> WHAT <- Vision
+> HOW <- Process
+> WHY <- Reason
 
-If you don't know the how of how to realize your vision, <>. There cannot be a bigger disgrace to your dreams.
+Your vision — or your “mission statement” — declares where you (or your organization) is headed and what it will look like when it's arrived. It tells you what success (for you) looks like. How else will you know when you’ve achieved it? 
 
-Not knowing "WHY" you wish to create 'WHAT' you wish to create (or are in the process of creating) will leave you driveless and unmotivated in no time. Everytime, someone will ridicule your vision you will be left questioning it yourself and give into the arguments of the <lip curlers> and give up on the vision. If you can't answer the WHY people will not take you seriously, investors(if required) won't fund your endeavour and friends & family will either not support you or support you half-heartedly. 'WHY' is the founding pillar and nothing great was ever built on <adj - shaky> foundations. So, [start with why]().
+> "If you don’t know where you’re going, any road will take you there."
+
+A vision forces you to really know your ambitions and declares the outcomes you expect, becoming a guiding light to lead you forward. Without a vision individuals and enterprises would be directionless and will not have anything to fall back on when plans go south and objectives are not met.
+
+Any map/strategic plan/process is useless if you don't know where you are going. Once you get (crystal) clear on WHAT you want, the HOW (almost) takes care of itself. 
+
+The 'WHAT' always need to come before the 'HOW'. Being more concerned about the 'HOW' too early, inhibits your vision and blocks you from thinking as big as you need to think. What you need is a vision that is so big that it is compelling, not only to others, but to you. A compelling vision gives the motivation required to stay the course and also urges others to your assistance.
+
+If vision is all that was required, <what would have happened>. Once you have figured out 'WHAT' you wish to do, you ought to figure out 'HOW' you plan on doing it. You must know the sequence of actions that need to be taken to achieve your goal and answering the 'HOW is figuring out that required sequence of actions. 
+
+The 'HOW' provides you a roadmap, an itinerary to reach your destination. It is a tool to see how much you have progressed towards your goals and how far you are from your destination. Knowing where you are is essential for making good decisions on where to go or what to do next. Without a detailed roadmap you will be left wandering <where> and soon run out of resources.
+
+Moreover, with careful planning you often can see if at some point you are likely to face a problem. It is much easier to adjust your plan to avoid or smoothen a coming crisis, rather than to deal with the crisis when it comes unexpected.
+
+<http://smallbusiness.chron.com/importance-planning-organization-1137.html>, <http://managementhelp.org/blogs/strategic-planning/2011/10/18/why-you-need-a-plan-5-good-reasons/>
+
+<need to improvise>
+
+Not knowing "WHY" you wish to create 'WHAT' you wish to create (or are in the process of creating) will leave you driveless and unmotivated in no time. Everytime, someone will ridicule your vision you will be left questioning it yourself and give into the arguments of the <lip curlers> and give up on the vision. If you can't answer the WHY, people will not take you seriously, investors(if required) won't fund your endeavour and friends & family will either not support you or support you half-heartedly. 'WHY' is the foundation or soul of your endeaour and nothing great was ever built with a shaky foundation. So, [start with why](https://www.goodreads.com/book/show/7108725-start-with-why) (<- a good business book to learn from).
 
 <pic of Milwaukee Art Museum>
 
