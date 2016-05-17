@@ -92,11 +92,35 @@ Moreover, with careful planning you often can see if at some point you are likel
 
 Not knowing "WHY" you wish to create 'WHAT' you wish to create (or are in the process of creating) will leave you driveless and unmotivated in no time. Everytime, someone will ridicule your vision you will be left questioning it yourself and give into the arguments of the <lip curlers> and give up on the vision. If you can't answer the WHY, people will not take you seriously, investors(if required) won't fund your endeavour and friends & family will either not support you or support you half-heartedly. 'WHY' is the foundation or soul of your endeaour and nothing great was ever built with a shaky foundation. So, [start with why](https://www.goodreads.com/book/show/7108725-start-with-why) (<- a good business book to learn from).
 
+<interlinked and-or trees>
+
+The CS-AI geek in me models the "What, How, Why" in the form of interlinked [AND-OR trees](<wiki link>). 
+
+The nodes of the trees are goals or sub-goals. In order to achieve a goal you need to achieve a conjunction of sub-goals (children of the goal node connected by an arc) however, their might be alternative ways to achieve any goal i.e. a disjunction (of conjunctions) exists. 
+
+Unlike traditional AND-OR trees in which each child has a single parent, in the search space (our life) a child can have multiple parents i.e after achieving certain sub-goals we can proceed forward to achieve multiple goals. 
+
+Now here is the catch, in the end we cannot be at multiple root nodes. Of all the possible root nodes at which we can be, only one is the 'victory node' while the rest are 'traps' or deadends. But we traverse the tree bottom up so, how do we avoid false paths leading us to trap (deadend) nodes? We make use of 'WHY links'! 
+
+When achieving the sub-goals becomes timeconsuming and overly demanding, we might lose our way (and other searchers of the search space will mostly confuse us since they might not be related by blood). The 'WHY links' are backlinks from children to parents, helping the child in distinguishing the 'true' parent from the impostors. They are like reminders - "Ok, I achieved this sub-goal but why did I want to achieve this in the first place? To achieve get to this parent goal and not these parent goals."
+
+Thinking of 'WHAT', 'HOW' and the 'WHY' reminds me of the life story of Santiago Calatrava - the architect, cum civil engineer, cum artist who disigned the Milwaukee Art Museum. The museum consists of a long glass-and-steel reception hall with an eighty-foot ceiling, all shaded by an enormous movalble sunscreen at the roof. The screem has two ribbed panels that open and close like the wings of a giant seagull, putting the entire edifice into motion and giving the sense of a building that could take flight!
+
 <pic of Milwaukee Art Museum>
 
-Thinking of 'WHAT', 'HOW' and the 'WHY' reminds me of the life story of Santiago Calatrava - the architect, cum civil engineer, cum artist who disigned the Milwaukee Art Museum. <brief info on his life story and on the museum>.
+At a very early age, Santiago Calatrava developed a love for drawing. A certain paradox in drawing began to obsess him - "how to capture the true essence of life - everything in a state of change and motion - on paper, in an image that was perfectly still?"
 
-Some webperson once told me good designers who can write their own desgin code are like goldflakes in the industry. I could immediately relate this to the combination of 'WHAT' with 'HOW'. Certainly it is more convenient and <productive> to have one person to knowing both what ot create and how to create than to have the what person (the designer) explain things to the how person(the developer). 
+He took classes and learned techniques for creating the various illusions of something caught in the moment of movement, but it was never quite enough. As a part of this impossible quest he taught himself aspects of mathematics, such as descriptive geometry, that could help him understand how to represent his objects in two dimensions. His skill improved and his interest in the subject deepened. It seemed he was destined for a career as an artist, and so he enrolled in an art school in Valencia.
+
+A few months int his studies, he had a seemingly minor experience that would change the course of his life : browsing for supplies in a stationery store, his eye was drawn to a beautifully designed booklet describing the work of the great architect Le Corbusier. Somehow this architect had managed to create competely distinctive shapes. He turned even something as simple as a stairway into a dynamic piece of sculpture. The buildings he designed simply seemed to defy gravity, creating a feeling of movement in their still forms. Studying this booklet, Calatrava now developled a new obsession - to learn the secret of how such buildings came about. As soon as he could, he transferred to an architecture school.
+
+Graduating from the architecture school, Calatrava had gained a solid foundation in the subject and was more than capable of taking his place in some architecture firm and working his way up. But he realized that while knew more than enough about the form and asthetics of the great works of architecture he most admired -  the Pantheon in Rome, the buildings of Gaudi in Barcelona, the bridges designed by Robert Maillart in Switzerland - ,he knew nothing about how they sttod up, how the pieces fit together, how the buildings of Le Corbusier (his inspiration mentioned above) managed to create that impression of movement and dynamism.
+
+It was like knowing how to draw a beautiful bird but not understanding how it could fly. As with drawing, he wanted to go beyond the surface, the design element, and touch upon the reality. He felt that the world was changin; something was in the air. With advances in technology and new materials, revolutionary possibilities had emerged for a new kind of architecture, but to truly exploit that he would have to learn engineering. So, he made the fateful decision to virtually start over and again enroll into university to gain a degree in civil engineering.
+
+After years of rigorous labour in the engineering college, driven by his childhood obsession to express movement and change, Santiago emerged as a "master" in civil engineering and architecture; one who broke the golden rule of architectue - "the buildings have to be stable and stationary" with his design and constructions, including but not <what> the Milwaukee Art Museum.
+
+Some webperson once told me good designers who can write their own desgin code are like goldflakes in the industry. I could immediately relate this to the combination of 'WHAT' with 'HOW'. Certainly it is more convenient and <productive> to have one person to knowing both what to create and how to create than to have the what person (the designer) explain things to the how person(the developer). 
 
 While it is always better to have a single individual knowing both the 'WHAT' and the 'HOW', such individuals are as rare as <what - Facebook/Mark Zuckerberg example?>. <following one - lose sight of other .. elaborate>. The alternative being teaming up. <apple example>. The team could be better if the 'WHYs' of the 'WHAT' and 'HOW' are more compatible. <Google example>. 
 
