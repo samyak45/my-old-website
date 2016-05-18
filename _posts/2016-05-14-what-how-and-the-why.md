@@ -38,7 +38,7 @@ Now, don't laugh at me. I had watched Iron Man movie (I) few days back and the g
 
 (Moreover smart AI assistants that can help us in everything from accomplishing our daily tasks and travels to eventually tackling even bigger challenges like climate change and cancer diagnosis are indisputably the future and we will soon be [moving from mobile first to an AI first world](http://www.businessinsider.in/Google-CEO-Were-headed-towards-an-AI-first-world/articleshow/51935048.cms).)
 
-![Iron Man Augemted Reality & JARVIS](iron-man-jarvis-augmented-reality.jpg)
+![Iron Man Augemted Reality & JARVIS](http://samyakchoudhary.com/img/iron-man-jarvis-augmented-reality.jpg)
 
 I recall having an obverse conversation with one of my classmates few days back. It was a long, involved discussion on convolutional neural nets, deep learning, and other machine learning stuff. 
 
