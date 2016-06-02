@@ -20,15 +20,15 @@ As I am typing this I lean back on my chair, take a deep breath and look at my '
 
 ![Harry Potter Diary Scence](http://samyakchoudhary.com/img/harry-potter-and-the-chamber-of-secrets.gif){: .center-image }
 
-  my (encouraging) teacher : You are quite bright a student, I am curious to know what do you aspire to do in life?
+  **my (encouraging) teacher** : You are quite bright a student, I am curious to know what do you aspire to do in life?
 
-  me : I want to build a very intelligent A.I. operating system. One that can adapt according to its user and respond to the user's thoughts. One that could be a friend, advisor, and personal assistant at the same time. One that can be integrated into our future smart home computing system, security system, our offices, cars and everywhere else we can be.
+  **me** : I want to build a very intelligent A.I. operating system. One that can adapt according to its user and respond to the user's thoughts. One that could be a friend, advisor, and personal assistant at the same time. One that can be integrated into our future smart home computing system, security system, our offices, cars and everywhere else we can be.
 
-  The teacher gives me that patronizing smile, one that I now give to my brother, and asks : That sounds marvelous. How do you plan on making this vision a reality ?
+  **The teacher gives me that patronizing smile**, one that I now give to my brother, **and asks** : That sounds marvelous. How do you plan on making this vision a reality ?
 
-  me (beaming smugly): I plan on getting admission in good engineering college. My dad tells me IITs are the best in India. There I will study computer science, artificial intelligence, and whatever else will be required and then use the acquired knowledge to make my A.I. agent.
+  **me (beaming smugly)** : I plan on getting admission in good engineering college. My dad tells me IITs are the best in India. There I will study computer science, artificial intelligence, and whatever else will be required and then use the acquired knowledge to make my A.I. agent.
 
-  my teacher (I now wonder how she was managed to control her laughter) : That sounds like a plan. Good luck!.
+  **my teacher (I now wonder how she was managed to control her laughter)** : That sounds like a plan. Good luck!.
 
 I sly smile comes across my face as I remembered that lost, innocent childhood.
 
