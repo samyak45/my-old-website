@@ -1,5 +1,5 @@
 ---
-title: Laments-Of-An-Aging-Childhood-Dreamer
+title: Laments Of An Aging Childhood Dreamer
 author: Samyak Choudhary
 layout: page-no-sidebar
 featimg: child-superhero.jpg
@@ -68,7 +68,7 @@ Yeah, yeah all that sounds like something worthwhile but dude, everyone need to 
 
 (I will advice you to read the book ["Your Money or Your Life"](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/) and the concepts of 'Financial Intelligence', 'Financial Integrity', and 'Financial Independence' *might* change your perception of money.) 
 
-I longing for that lost innocent childhood filled with endless dreams and possibilities has started to sweep in but I might better take some mercy now on my forbearing reader who didn't press (Cntrl + w) while reading through the paragraphs of this rather juvenille post. I too should force myself out of this childhood nostalgia and focus on preparing for the upcoming internship afterall I do look forward to getting a PPO (Pre-Placement-Offer) out of it and accha high-paying job nhi hoga toh kaam kese chalega.
+My longing for that lost innocent childhood filled with endless dreams and possibilities has started to sweep in but I might better take some mercy now on my forbearing reader who didn't press (Cntrl + w) while reading through the paragraphs of this rather juvenille post. I too should force myself out of this childhood nostalgia and focus on preparing for the upcoming internship afterall I do look forward to getting a PPO (Pre-Placement-Offer) out of it and accha high-paying job nhi hoga toh kaam kese chalega.
 
 Peace out.
 
