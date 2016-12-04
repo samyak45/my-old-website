@@ -1,0 +1,151 @@
+---
+title: Revolutionaries vs Rebels / From Rebels to Revolution
+author: Samyak Choudhary
+layout: page-no-sidebar
+featimg: 
+categories : []
+tags : []
+published : false
+---
+
+<collage of some revolutionaries>
+
+“The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
+
+Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
+
+Recently I got caught up in an argument with one of my friends who accussed me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
+
+She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebelious streak is innate to people her age. 
+
+In adolosence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of grey it is, we see it as a black and white and despite limited experiences, begin to question the social machinery established over <> years. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greesy stains from this world and make it the "heavenly place" it should have already been when we were born!
+
+"Inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to."
+
+Refuting her acute accusations through combination of logic and emotions superficially, I began to question my integrity internally. While I explained how inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the the war whose battle flags I was blazing.
+
+Soon, my mulling turned from questioning myself to sifting the definitions of rebels and revolutionaries. 
+
+<questions --
+
+"What it means to be a revolutionary?"
+
+"Are all revolutionaries rebels?"
+
+"Are rebels and confirmists the only two categories people can be classified into?"
+
+"Why is it that while majority of young adults are rebellious very few retain the rebellious streak as they grow older?"
+
+-->
+
+I arrived at the following findings after dicussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and <> the world and spending hours contemplating over raw facts and trying to connect them.
+
+Rebels and revolutionaries are two different breeds (not necessarily <mutually exclusive/independent>) of insurgents. While both loathe the pre-established norms, the divergence lies in the approach they take to debunk them.
+
+<ven diagram> 
+
+(It might be helpful to visualize <> as rebels and people like <> as revolutionaries for the remaining of this article.)
+
+To substantially overturn <> one needs to be completely at odds with <it>. This belief is embedded so deeply in our cultural psyche that we rarely even stop to think about it. We see world changers as people who are impervious to opposition and simply don’t worry about the costs of non-conformity the way the rest of us do. Diplomacy and compromise don't seem to be the personality traits of individuals who drive change in the world. Right?
+
+I will backpedal on this myth that has been cajoled into us by mythified stories of revolution and world change.
+
+We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and <> they don't believe in. They are seen as paragons of obstinate confidence. The image of <adj warriors> erupts in our heads when we hear the word "revolutionary" .While, this image might apply to revolutionary rebels but not revolutionaries in general. Digging into the lives Martin Luther King Jr., Mahatma Gandhi, <> and the like reveals something inconceivably astounding. You realize as they question traditions and challenge the status quo, they may appear bold and self-assured on the surface. But when you peel back the layers, the truth is that they, too, grapple with fear, ambivalence, and self-doubt. We view them as self-starters, but their efforts are often fueled and sometimes forced by others. And as much as they seem to <crave/embrace> <risk>, they really prefer to avoid it.
+
+<give some historical examples - Martin Luther King Jr.>
+
+Martin Luther King, Jr., <the >, was apprehensive about leading the civil rights movement. He was nominated for presidency of Montgomery Improvement Association - the organization that catapulted the Montgomery Bus Boycott and Dr. Martin Luther King, Jr. to the forefront of the national struggle for civil rights - by another member. King later <said/reflected>, “It had happened so quickly that I did not even have time to think it through. It is probable that if I had, I would have declined the nomination”.
+
+The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). 
+
+A rebel, contemptous of <> desires to knock down <>. A revolutionary plans to erect <a better wall> and does what it takes (knocking down or <>) to accomplish his plans. 
+
+A rebel hates the establishment so much that he/she will prefer no establishment at all the one currently in place. A revolutionary loves his <dreamt establishment> that he can't be satisfied with anything less <>.
+
+These distinctions in <viewpoint/outlook> blurs as any <adj> movement progresses forward since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction.
+
+A perfect example of how <the gap fills in> is of Che Guevera. 
+
+Another example comes from India's struggle for freedom. Mahatma Gandhi and 
+
+But, despite how the <differences are covered up>. The fundamental difference in <vision> remains and continues to affect the way in which <...>. Revolutionaries listen, reflect and then speak/act. Rebels <do what>.
+
+<fundamental approach idiosncracy credits, exercising power, becoming part of status quo.>
+
+<conluding remarks -- need for rebels, creating waves, this article might be a little biased, bias spurs from my infatuation with planning and sophistication as apposed to blunt action>
+
+
+
+ 
+... diff article on idiosncracy credits, exercising power, becoming part of status quo ....
+
+In an organization, a rebel tries to exercise influence from below <...>. <..>
+
+The <last> difference reminds me of <investopedia>. 
+
+<Mahatma Gandhi>
+
+
+
+Ironically while we use the term revolutionaries for both scientific and social stuff, in scientific revolutions we <understad> that coming up with new theories requires understanding pre-existing ones, in social we take it for granted that <... no pact, fight>.
+
+I will close by suggesting a way to identify a revolutioary, rebel and confirmist in a <>. Ask <...>.
+
+The confirmist would,
+
+The rebel would,
+
+The revolutionary would, 
+
+
+
+
+We see revolutionaries as paragons of freethinking, strategic abilities, <strong> principles, conviction and self-confidence. People untethered by social proof. People who incessantly rebut theories, ideas and <> they don't believe in. People radiating 
+
+
+
+
+
+
+
+
+
+
+
+<lives of some revolutionaries>
+
+Based on above I realized that revolutionaries and rebels are two ditinct <though non mutually exclusive> breeds of people.
+
+While revolutionaries see the world differently and don't accept the status quo, they aren't necessarily your <something analogous>. Revolutionaries are people who take radical risks and are as <what> of going against the tide as the so called "confirmist majority". What makes them different is <what>.
+
+Rebels on the other hand are people who <do what>. True rebels due to <what> might be almost as unlikely as those who accept the <status quo> to 'change the world'. Rebels apparently are people who could have revolutionized industries and changed midsets only if they had taken some time to understand their fellow beings and had learnt to keep quiet when they were better off not speaking.
+
+I also realized that confirmists in no single category either. There are different types of confirmists. We have followers and we have acceptors.
+
+Followers are true confirmists who <do what>.
+
+On the other hand acceptors are people who <do what>. 
+
+But very few are true followers or true acceptors, most lie somewhere in between. Even rebels lie on this confirmity scale if it is extrapolated <till what>. xD
+
+So, how do you thing recognize a follower, an acceptor, a rebel and a revolutionary ? Well, all you need to do is <arrange for conversation> and converse on a slightly controverial topic. 
+
+The follower will <do what>.
+
+The acceptor would <do what>.
+
+The rebel - wait, do I even need to be reminded of how to recognize a <adj adj rebel during a conversation>? Well I just did!
+
+The revolutionary - I am still to come across a revolutionary but I would expect him/her to be a good listener who listens to arguments, reflects, comes up with an unbiased analysis and based on his understanding of the people around expresses his/her thouhgt in manner that <would what>.
+
+I would close with one of my favourite quotes :
+
+"<quote>".
+
+--------------------------------------------------------------------------------
+
+Here I am no way calling myself a revolutioary not because <> but because <>.
+
+
+
+
