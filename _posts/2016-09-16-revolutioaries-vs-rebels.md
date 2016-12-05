@@ -26,35 +26,67 @@ Refuting her acute accusations through combination of logic and emotions superfi
 
 Soon, my mulling turned from questioning myself to sifting the definitions of rebels and revolutionaries. 
 
-<questions --
+"What does it mean to be a revolutionary or a rebel?"
 
-"What it means to be a revolutionary?"
+"What are the two like behind their public demeanor?"
 
-"Are all revolutionaries rebels?"
-
-"Are rebels and confirmists the only two categories people can be classified into?"
-
-"Why is it that while majority of young adults are rebellious very few retain the rebellious streak as they grow older?"
-
--->
+"Are all revolutionaries rebels? If not, what is the difference between them?"
 
 I arrived at the following findings after dicussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and <> the world and spending hours contemplating over raw facts and trying to connect them.
 
-Rebels and revolutionaries are two different breeds (not necessarily <mutually exclusive/independent>) of insurgents. While both loathe the pre-established norms, the divergence lies in the approach they take to debunk them.
 
-<ven diagram> 
+Rebels and revolutionaries are two different (<non-disjoint>) breeds of insurgents. While both loathe <adj> pre-established norms, the divergence lies in the approach they take to debunk them. The difference is subtle but clear.
 
-(It might be helpful to visualize <> as rebels and people like <> as revolutionaries for the remaining of this article.)
+(It might be helpful to visualize Bhagat Singh, Che Guevera and <>  as rebels and people like Mahatma Gandhi, Martin Luther King Jr., and Nelson Madela as revolutionaries for the remaining of this article.)
 
-To substantially overturn <> one needs to be completely at odds with <it>. This belief is embedded so deeply in our cultural psyche that we rarely even stop to think about it. We see world changers as people who are impervious to opposition and simply don’t worry about the costs of non-conformity the way the rest of us do. Diplomacy and compromise don't seem to be the personality traits of individuals who drive change in the world. Right?
+#Who are revolutionaries?
+
+A revolutionary is someone who works for political or social change.  The orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
+
+They feel responsible for the greater good and for doing good. They wrestle with how far they should go in seeking justice and fairness for others, in exposing corruption and injustice or in standing up against evil or wrong-doing. They worry about with what is the higher duty and what exactly is required of them in response.
+
+They are people of conscience who cause revolution to conform society, as a whole, to a higher moral or ethical standard.
+
+As we trace the lives of several revolutionaries, we locate a common thread of <righteousness> connecting their life events. Over the course of their lives these <people> are drawn further and further down the path of righteousness. They are compelled to do one small thing, then another and another until, in the end, they have sacrificed their personal concerns, their safety, their security, their family, their fortunes or often their lives.
+
+Typical revolutionary monotone / A revolutionary looks at the world like this -
+
+“Wherever there’s a fight, so hungry people can eat, I’ll be there. Wherever there’s a cop beating up a guy, I’ll be there. I’ll be in the way guys yell when they are mad. I’ll be in the way kids laugh when they are hungry and they know supper’s ready, and when the people are eating the stuff they raise and living in the houses they build– I’ll be there, too.” - Tom Joad (Henry Fonda) in The Grapes of Wrath
+
+#Who are rebels?
+
+A rebel is a person who resists authority, control, or tradition.  Rebels fight against the status quo to resist authority or conformity and to promote or preserve their personal autonomy. Drawn towards seeking seeking aesthetic perfection, their orientation is more individualistic. 
+
+Noteworthiness, rarity, distinctiveness, individuality and/or the unusual, idiosyncratic or eccentric are what these characters value most highly in themselves and others.
+
+These are idealists who have high standards and seek excellence in whatever they do. They believe that what is perfect but unavailable or unattainable is infinitely more desirable than what is flawed but possible or achievable. 
+
+When you look at their lives, you always find them reaching for the unreachable star.
+
+A typical rebel's dialogue -
+
+“And maybe there’s no peace in this world, for us or for anyone else, I don’t know. But I do know that, as long as we live, we must remain true to ourselves.”  - Spartacus (Kirk Douglas) in Spartacus
+
+#Behind the public demeanor
+
+To substantially overturn an old system, one needs to be completely at odds with it. This belief is embedded so deeply in our cultural psyche that we rarely even stop to think about it. We see world changers as people who are impervious to opposition and simply don’t worry about the costs of non-conformity the way the rest of us do. Diplomacy and compromise don't seem to be the personality traits of individuals who drive change in the world. Right?
 
 I will backpedal on this myth that has been cajoled into us by mythified stories of revolution and world change.
 
-We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and <> they don't believe in. They are seen as paragons of obstinate confidence. The image of <adj warriors> erupts in our heads when we hear the word "revolutionary" .While, this image might apply to revolutionary rebels but not revolutionaries in general. Digging into the lives Martin Luther King Jr., Mahatma Gandhi, <> and the like reveals something inconceivably astounding. You realize as they question traditions and challenge the status quo, they may appear bold and self-assured on the surface. But when you peel back the layers, the truth is that they, too, grapple with fear, ambivalence, and self-doubt. We view them as self-starters, but their efforts are often fueled and sometimes forced by others. And as much as they seem to <crave/embrace> <risk>, they really prefer to avoid it.
+We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and practices they don't believe in. They are seen as paragons of obstinate confidence. The image of a mutineer erupts in our heads when we come across the word "revolutionary" . This image is <nothing/anything> but a mirage. 
 
-<give some historical examples - Martin Luther King Jr.>
+Digging into the lives of Martin Luther King Jr., Mahatma Gandhi, Nelson Mandela and the like, reveals something inconceivably astounding. You realize as they question traditions and challenge the status quo, they may appear bold and self-assured on the surface. But when you peel back the layers, the truth is that they, too, grapple with fear, ambivalence, and self-doubt. We view them as self-starters, but their efforts are often fueled and sometimes forced by others. And as much as they seem to embrace conflict, they really prefer to avoid it.
 
-Martin Luther King, Jr., <the >, was apprehensive about leading the civil rights movement. He was nominated for presidency of Montgomery Improvement Association - the organization that catapulted the Montgomery Bus Boycott and Dr. Martin Luther King, Jr. to the forefront of the national struggle for civil rights - by another member. King later <said/reflected>, “It had happened so quickly that I did not even have time to think it through. It is probable that if I had, I would have declined the nomination”.
+Martin Luther King, Jr., the kingpin of the civil rights movement and who had a seismic impact on race relations in the United States, was apprehensive about joining the civil rights movement. He was nominated for presidency of Montgomery Improvement Association - the organization that catapulted the Montgomery Bus Boycott and Dr. Martin Luther King, Jr. to the forefront of the national struggle for civil rights - by another member. King later reflected, “It had happened so quickly that I did not even have time to think it through. It is probable that if I had, I would have declined the nomination”.
+
+<Mahatma gandhi example>
+
+Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the antiapartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Jhoanesberg inorder to avoid an arranged marriage. As entering Jhonaeberg as an anonymous black person, he came to face-to-face with the brutual reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an orgnization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Jhoanesberg and his experiences there. Later, several militant young members of ANC met him and persuaded him to form and lead the African National Congress Youth League (ANCYL) to force a more radical approach against racial discrimination.
+
+
+ his insights and experiences. It was here that his radical views of <> were shaped and  had he where 
+
+#The Differentiation
 
 The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). 
 
@@ -75,8 +107,9 @@ But, despite how the <differences are covered up>. The fundamental difference in
 <conluding remarks -- need for rebels, creating waves, this article might be a little biased, bias spurs from my infatuation with planning and sophistication as apposed to blunt action>
 
 
+http://www.etbscreenwriting.com/fine-distinctions/
 
- 
+ <negotiate>
 ... diff article on idiosncracy credits, exercising power, becoming part of status quo ....
 
 In an organization, a rebel tries to exercise influence from below <...>. <..>
@@ -149,3 +182,5 @@ Here I am no way calling myself a revolutioary not because <> but because <>.
 
 
 
+Prabha Karan - rajiv gandhi's assasin (villain)
+Paan Singh Tomer - (villain + hero)
