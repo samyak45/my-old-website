@@ -81,16 +81,67 @@ Martin Luther King, Jr., the kingpin of the civil rights movement and who had a 
 
 <Mahatma gandhi example>
 
-Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the antiapartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Jhoanesberg inorder to avoid an arranged marriage. As entering Jhonaeberg as an anonymous black person, he came to face-to-face with the brutual reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an orgnization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Jhoanesberg and his experiences there. Later, several militant young members of ANC met him and persuaded him to form and lead the African National Congress Youth League (ANCYL) to force a more radical approach against racial discrimination.
+Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the antiapartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Jhoanesberg inorder to avoid an arranged marriage. As entering Jhonaeberg as an anonymous black person, he came to face-to-face with the brutual reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an orgnization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Jhoanesberg and his experiences there. Later, several militant young members of ANC met him and persuaded him to form and lead the African National Congress Youth League (ANCYL) to enforce a more radical approach against racial discrimination.
+
+<rebels behind their public demeanor>
+
+#The Differentiation / The approach 
+
+The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). However, as any <adj> movement progresses forward, these distinctions in <viewpoint/outlook> blur in since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction. 
+
+When the demarcation between these two breeds of insurgents eventually becomes almost non-existent, how do we distinguish between them and most importantly why does it even matter?
+
+Revoluionaries vs Rebels (Part-2)
 
 
- his insights and experiences. It was here that his radical views of <> were shaped and  had he where 
+------------------------------------------------------------------------------
 
-#The Differentiation
 
-The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). 
+In Part-1 I talked about the definitions of rebels and revolutionaries and tried to understand how do they look like behind their public demeanor. If you haven't read that past, I recommend reading it first. 
+
+In this post I will attempt to decipher the difference in approach towards change taken up by both revolutionaries and rebels and how their respective personalities shape the movement they are a part of. I will dig into the lives of some revolutioary rebels to look at how does it look like when a revolution becomes a rebellion or when a rebellion is used to bring a revolution. Finally I will conclude and try to build a consensus on how and why we need both of these forces to drive the world forward.
+
+Irrespective of whether or not we are a part of a <national/international> movement, rebellion and revolution are two agents of change that never abandon us. They shape us and our world. From having shaped the history of our world (which in turn is responsible for our present) to  deciding the future course of the organizations we work for and the industries we work in, from determining how our past idiosyncrasies have shaped our current reputations to how our superiors and our colleagues are gonna respond to them now, from determining whether we will be just dismissed as another crazy person with a crazy idea or remembered as an individual who transfigured a domain.
+
+Whether you are someone aspiring to bring a change or someone following others trying to or just a silent spectator, understanding the rebell mindset and the revolutionary mindset can help in making better decisions and getting better outcomes.
+
+#Earning Status vs Disregarding Status Quo
+
+When was the last time you entered a new society/ a new class/ a new organization and started suggesting in your initial days on how things can be done differently? What was the reaction of those around you? And if you managed to not give up on your idea and persevered there long enough, how were your suggestions then received?
+
+Unless you were not known to be a rockstar of the field prior to entering or unless you managed to find an institution that truly appreciates speaking up with suggestions, it's likely that in the former case, even if your insights were indeed revolutionizing, you were squashed and got replies like "You just don't get it.", "This is not how things are done here.". In the latter case people would have lend you an ear, applauded you and even implemented your suggestions (even if they weren't truly worth implementing).
+
+What leads to this difference in reception? Was it that the initial suggestions were not founded on solid ground and the later ones were more in sync with reality? Possibly but not necessarily. Even the exact same idea communicated in the two scenrios will be received as mentioned.
+
+The difference lies in the words 'credibility', 'respect' and 'status'.
+
+Power and status are not the same. Power is related with having influence (on others), status is about having the right to exercise power. Trying to exercise power without status is like trying to demolish a 100ft castle with 5ft thick boundary walls and a 20ft high metal gate using just your physical strength. With status, it's like "Well I don't exactly need to demolish this castle since I own it anyway".
+
+Revolutionaries understand the value of status and know how to use it to achieve their objectives. Their operations are targeted towards rising up, gaining entry into the castle and then eventually conquering it from within. On the other hand, rebels attack the system from below.
+
+No colonial government would tolerate a skinny <> year old man wearing lion cloth who is trying to create a ruckass by violating every other law they come up with. Unless that person earned the status, admiration and people's respect to make them fear simply shoving him off. And every other militant trying to surge terror would, at best, be subjected to trial and prosecuted.
+
+“The way to come to power is not always to merely challenge the Establishment, but first make a place in it and then challenge and double-cross the Establishment.” - Francis Ford Coppola
+
+<examples>
+
+#Incremental Change vs Complete Overhaul
+
+
+#Idealism vs Realism
+
+
+
+
+
+
+Rebels blame their enemy for all that's wrong and believe defeating the enemny will make everyting perfect. Revolutionaries are more pragmatic. They double-cross...
 
 A rebel, contemptous of <> desires to knock down <>. A revolutionary plans to erect <a better wall> and does what it takes (knocking down or <>) to accomplish his plans. 
+
+<complete overhaul vs incremental progress> 
+
+<rebels take a 0 1 approach, see world as white and black -- this is good because it provides a radical approach as apposed to one provided by diplomatic revolutionaries but maybe infeasible - even if rebels win, the vistory might not lead to the perfect things they dreamt of e.g. Che Guevera -- but then does this mean revolutionaries lead to perfect outcomes? certainly the indo-pak splitup says otherwise. Well all such complete reestablishment is going to create powerful destructive waves but in the long run revolution serves to be better than rebellions.Rebels rush in. 
 
 A rebel hates the establishment so much that he/she will prefer no establishment at all the one currently in place. A revolutionary loves his <dreamt establishment> that he can't be satisfied with anything less <>.
 
@@ -131,23 +182,6 @@ The rebel would,
 The revolutionary would, 
 
 
-
-
-We see revolutionaries as paragons of freethinking, strategic abilities, <strong> principles, conviction and self-confidence. People untethered by social proof. People who incessantly rebut theories, ideas and <> they don't believe in. People radiating 
-
-
-
-
-
-
-
-
-
-
-
-<lives of some revolutionaries>
-
-Based on above I realized that revolutionaries and rebels are two ditinct <though non mutually exclusive> breeds of people.
 
 While revolutionaries see the world differently and don't accept the status quo, they aren't necessarily your <something analogous>. Revolutionaries are people who take radical risks and are as <what> of going against the tide as the so called "confirmist majority". What makes them different is <what>.
 
