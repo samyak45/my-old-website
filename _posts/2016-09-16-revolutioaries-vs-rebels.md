@@ -20,7 +20,7 @@ She is a teenager and I can't disapprove her of her infatuation with insurgence.
 
 In adolosence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of grey it is, we see it as a black and white and despite limited experiences, begin to question the social machinery established over <> years. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greesy stains from this world and make it the "heavenly place" it should have already been when we were born!
 
-"Inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to."
+"Inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to.", I said.
 
 Refuting her acute accusations through combination of logic and emotions superficially, I began to question my integrity internally. While I explained how inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the the war whose battle flags I was blazing.
 
@@ -55,7 +55,7 @@ Typical revolutionary monotone / A revolutionary looks at the world like this -
 
 #Who are rebels?
 
-A rebel is a person who resists authority, control, or tradition.  Rebels fight against the status quo to resist authority or conformity and to promote or preserve their personal autonomy. Drawn towards seeking seeking aesthetic perfection, their orientation is more individualistic. 
+A rebel is a person who resists authority, control, or tradition.  Rebels fight against the status quo to resist authority or conformity and to promote or preserve their personal autonomy. Drawn towards seeking aesthetic perfection, their orientation is more individualistic. 
 
 Noteworthiness, rarity, distinctiveness, individuality and/or the unusual, idiosyncratic or eccentric are what these characters value most highly in themselves and others.
 
@@ -148,22 +148,48 @@ With their aspirations based on a utopian ideology, rebels often fail to foresee
 
 Certain times do necessitate inharmonious measures and they might be the only <thing/force> saving the <victims> from oblivion. At other times, a more diplomatic approach can be used.
 
-Revolutioaries bring radical transformations however, the transformation is incremental. Every revolution for national independence started as a moment seeking to extricate people from unjust laws. 
-<...>
+Revolutioaries bring radical transformations however, the transformation is incremental. Every revolution for national independence started as a moment seeking to extricate people from unjust laws. They start with aggreements were reached for both sides to find middle-ground and gradually proceed towards annihilating their nemesis, at every step using some trojan horse to mask their true objectives.
+
 
 #Power of Idealism vs Power of Conscience
 
-<we all have come across those <idealist> who .. (you might be one of those too!) ... however world is far from ideal, need to be in sync with reality> <power of conscience character too ... means as important as the ends >
+We all ocasionally come across person who are guided more by ideals than by practical considerations. People who often fail to see the flaw in themselves and in their fellow human beings. Rebels form the purest brand of idealists. 
+
+Rebels are dreamers who tend to believe that once there rebellion has successfully accomplished it's objective, everything will be great and everyone will be happy. They can't be more out of sync with reality.
+
+<how this affects the course of their actions>
+
+Oftentimes, freedom can be more perishing than suppression. The unwarranted repercussions of mass rebellions can be far-reaching and can result in <>.
+
+Have you ever come across the rare lot of people who have an inborn sense of idealism and morality, who tend to see helping others as their purpose in life and are often seen engaging in rescue efforts and doing charity work but whose real passion is to get to the heart of the issue so that people need not be rescued at all. People who advocate egalitarianism and they tend to believe that nothing would help the world so much as using love and compassion to soften the hearts of tyrants. But who aren't ideal dreamers and take concrete steps to realize their humanitarian vision.
+
+That's the potrait of a revolutionary. 
+
+Revolutionaries are people of conscience who believe in karma and pioneer the belief that means are as important as the end. 
+
+<how this manifests into their actions>
+
+
 
 
 #Struggle of the masses vs Elitist Struggle
 
-The <> nature of rebellion restricts it to to few (really?).
+The <> nature of rebellion restricts it to few (really?).
 
 #When revolution becomes a rebellion - Che Guevera, The Revolutionary Rebel
 
-
+#digitalizing 
 <conclusion>
+
+From the top of my head, my closing thoughts are - 
+
+I have been wasting my time and my readers time trying to make an unnecessary comparision. 
+
+IMO, both are nuthead extremists but hey, only <nutheads> like these have been known to bring marked transormations!
+
+I am just a laid back rebel.
+
+Now the conclusion that is expected from a 'serious' blogpost as this - 
 
 
 -------------------------------------------------------------------------------------------------
