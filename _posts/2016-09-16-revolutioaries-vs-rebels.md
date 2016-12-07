@@ -105,6 +105,16 @@ Irrespective of whether or not we are a part of a <national/international> movem
 
 Whether you are someone aspiring to bring a change or someone following others trying to or just a silent spectator, understanding the rebell mindset and the revolutionary mindset can help in making better decisions and getting better outcomes.
 
+#Target of Attack
+
+As mentioned towards the end of Part-1, the core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). 
+
+However, as any <adj> movement progresses forward, these distinctions in <viewpoint/outlook> blur in since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction. 
+
+#Different Approaches
+
+The demarcation between rebels and revolutionaries lies in how they approach the different element of change and their motivations.
+
 #Earning Status vs Disregarding Status Quo
 
 When was the last time you entered a new society/ a new class/ a new organization and started suggesting in your initial days on how things can be done differently? What was the reaction of those around you? And if you managed to not give up on your idea and persevered there long enough, how were your suggestions then received?
@@ -117,25 +127,48 @@ The difference lies in the words 'credibility', 'respect' and 'status'.
 
 Power and status are not the same. Power is related with having influence (on others), status is about having the right to exercise power. Trying to exercise power without status is like trying to demolish a 100ft castle with 5ft thick boundary walls and a 20ft high metal gate using just your physical strength. With status, it's like "Well I don't exactly need to demolish this castle since I own it anyway".
 
-Revolutionaries understand the value of status and know how to use it to achieve their objectives. Their operations are targeted towards rising up, gaining entry into the castle and then eventually conquering it from within. On the other hand, rebels attack the system from below.
+Revolutionaries understand the value of status and know how to use it to achieve their objectives. Their operations are targeted towards rising up, gaining entry into the castle and then eventually conquering it from within. On the other hand, rebels completely disregard the status quo and attack the system from below.
 
 No colonial government would tolerate a skinny <> year old man wearing lion cloth who is trying to create a ruckass by violating every other law they come up with. Unless that person earned the status, admiration and people's respect to make them fear simply shoving him off. And every other militant trying to surge terror would, at best, be subjected to trial and prosecuted.
 
+The revolutionaries earn respect and admiration not only of the people they are fighting for but also of the establishment they are fighting against. This to an extent that the opposition begins to take their counsel to save itself!
+
 “The way to come to power is not always to merely challenge the Establishment, but first make a place in it and then challenge and double-cross the Establishment.” - Francis Ford Coppola
 
-<examples>
 
 #Incremental Change vs Complete Overhaul
 
+(To the reader) Let me claim - "Your parents raised you wrong. Your school and college taught you wrong and your life till now has been anything but a lie. You will have to start all over again." An inane assertion, right?
 
-#Idealism vs Realism
+Now what if I subtly say, "You are alright but you can do <something> better by making these adaptations." You might heed this suggestion.
+
+A rebel will adopt the former approach; a revoluionary, the latter.
+
+With their aspirations based on a utopian ideology, rebels often fail to foresee the repercusions of their stringent methods on themselves, the people around them and the institutions they are a part of. Very often in their "genuine struggle" for change, they jeopardize everyone's lives, freedom, or livelihoods. Historically, all mass rebellions have been marked with massive bloodshed.
+
+Certain times do necessitate inharmonious measures and they might be the only <thing/force> saving the <victims> from oblivion. At other times, a more diplomatic approach can be used.
+
+Revolutioaries bring radical transformations however, the transformation is incremental. Every revolution for national independence started as a moment seeking to extricate people from unjust laws. 
+<...>
+
+#Power of Idealism vs Power of Conscience
+
+<we all have come across those <idealist> who .. (you might be one of those too!) ... however world is far from ideal, need to be in sync with reality> <power of conscience character too ... means as important as the ends >
 
 
+#Struggle of the masses vs Elitist Struggle
+
+The <> nature of rebellion restricts it to to few (really?).
+
+#When revolution becomes a rebellion - Che Guevera, The Revolutionary Rebel
 
 
+<conclusion>
 
 
-Rebels blame their enemy for all that's wrong and believe defeating the enemny will make everyting perfect. Revolutionaries are more pragmatic. They double-cross...
+-------------------------------------------------------------------------------------------------
+
+Rebels blame their enemy for all that's wrong and believe defeating the enemy will make everyting perfect. Revolutionaries are more pragmatic. They double-cross...
 
 A rebel, contemptous of <> desires to knock down <>. A revolutionary plans to erect <a better wall> and does what it takes (knocking down or <>) to accomplish his plans. 
 
@@ -145,7 +178,6 @@ A rebel, contemptous of <> desires to knock down <>. A revolutionary plans to er
 
 A rebel hates the establishment so much that he/she will prefer no establishment at all the one currently in place. A revolutionary loves his <dreamt establishment> that he can't be satisfied with anything less <>.
 
-These distinctions in <viewpoint/outlook> blurs as any <adj> movement progresses forward since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction.
 
 A perfect example of how <the gap fills in> is of Che Guevera. 
 
