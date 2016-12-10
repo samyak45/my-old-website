@@ -5,7 +5,7 @@ layout: page-no-sidebar
 featimg: 
 categories : []
 tags : []
-published : false
+published : true
 ---
 
 <collage of some revolutionaries>
@@ -42,17 +42,18 @@ Rebels and revolutionaries are two different (<non-disjoint>) breeds of insurgen
 
 #Who are rebels?
 
-This girl - 
-
-![Arya Stark](http://samyakchoudhary.com/img/arya-stark.jpg){: .center-image }
-
 This guy -
 
 ![Jack Sparrow](http://samyakchoudhary.com/img/jack-sparrow_trustDishonesty.jpg){: .center-image }
 
-Him too - 
+This girl - 
 
-![Samyak Choudhary](http://samyakchoudhary.com/img/samyak-choudhary-rebel.jpg){: .center-image }
+![Arya Stark](http://samyakchoudhary.com/img/arya-stark.jpg){: .center-image }
+
+Obviously him - 
+
+![Harry Potter](http://samyakchoudhary.com/img/harry-potter-rebel.jpg){: .center-image }
+
 
 Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are ? Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge I have recently been pushed into the 'Rebel Worldcup'!
 
@@ -70,45 +71,53 @@ When you look at their lives, you always find them reaching for the unreachable 
 
 A typical idealist rebel's dialogue -
 
-“And maybe there’s no peace in this world, for us or for anyone else, I don’t know. But I do know that, as long as we live, we must remain true to ourselves.”  - Spartacus (Kirk Douglas) in Spartacus
+> “And maybe there’s no peace in this world, for us or for anyone else, I don’t know. But I do know that, as long as we live, we must remain true to ourselves.”  - Spartacus (Kirk Douglas) in Spartacus
 
 #Who are revolutionaries?
 
-Certainly him -
+Definitely her -
+
+![Katniss Everdeen](http://samyakchoudhary.com/img/Katniss-Everdeen.jpg){: .center-image }
 
 Him too -
 
-Don't miss him/her either - 
+![Dumbledore](http://samyakchoudhary.com/img/dumbledore.jpg){: .center-image }
+
+And how can anyone forget him - 
+
+![Batman](http://samyakchoudhary.com/img/the-dark-knight.jpg){: .center-image }
 
 
-You must consider yourself lucky if you have ever encountered a true revolutionary. And I take my hat off to you if you sucessfully endured the inborn sense of morality and virtuous nature that makes others feel <> for <> over <> . One problem though, I don't wear a hat :P .
+You must consider yourself lucky if you have ever encountered a true revolutionary. And I take my hat off to you if you sucessfully endured the inborn sense of morality and virtuous nature that makes everyone else's distress over personal life issues seem pitiful. One problem though, I don't wear a hat :P .
 
 A revolutionary is someone who works for political or social change.  The orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
 
-Think <>, <> and <>.
+Think Katniss (The Hunger Games), Dumbledore (Harry Poter), Batman (The Dark Knight) and Aragorn 2 (The Lord of the Rings).
 
-They feel responsible for the greater good and for doing good. They wrestle with how far they should go in seeking justice and fairness for others, in exposing corruption and injustice or in standing up against evil or wrong-doing. They worry about with what is the higher duty and what exactly is required of them in response.
+Revolutionaries feel responsible for the greater good and for doing good. They wrestle with how far they should go in seeking justice and fairness for others, in exposing corruption and injustice or in standing up against evil or wrong-doing. They worry about with what is the higher duty and what exactly is required of them in response.
 
-Note that they aren't idle dreamers, but people capable of taking concrete steps to realize their goals and make a lasting positive impact. They are decisive and strong-willed, and share a very unique combination of traits: though soft-spoken, they have very strong opinions and will fight tirelessly for an idea they believe in.
+Note that these aren't idle dreamers, but people capable of taking concrete steps to realize their goals and make a lasting positive impact. They are decisive and strong-willed, and share a very unique combination of traits: though soft-spoken, they have very strong opinions and will fight tirelessly for an idea they believe in.
 
 They are people of conscience who cause revolution to conform society, as a whole, to a higher moral or ethical standard.
 
-As we trace the lives of several revolutionaries, we locate a common thread of <righteousness> connecting their life events. Over the course of their lives these individuals are drawn further and further down the path of righteousness. They are compelled to do one small thing, then another and another until, in the end, they have sacrificed their personal concerns, their safety, their security, their family, their fortunes or often their lives.
+As we trace the lives of several revolutionaries, we locate a common thread of virtue connecting their life events. Over the course of their lives these individuals are drawn further and further down the path of righteousness. They are compelled to do one small thing, then another and another until, in the end, they have sacrificed their personal concerns, their safety, their security, their family, their fortunes or often their lives.
 
-Typical revolutionary monotone / A revolutionary looks at the world like this -
+Typical revolutionary monotone -
 
-“Wherever there’s a fight, so hungry people can eat, I’ll be there. Wherever there’s a cop beating up a guy, I’ll be there. I’ll be in the way guys yell when they are mad. I’ll be in the way kids laugh when they are hungry and they know supper’s ready, and when the people are eating the stuff they raise and living in the houses they build– I’ll be there, too.” - Tom Joad (Henry Fonda) in The Grapes of Wrath
+> “Wherever there’s a fight, so hungry people can eat, I’ll be there. Wherever there’s a cop beating up a guy, I’ll be there. I’ll be in the way guys yell when they are mad. I’ll be in the way kids laugh when they are hungry and they know supper’s ready, and when the people are eating the stuff they raise and living in the houses they build– I’ll be there, too.” - Tom Joad (Henry Fonda) in The Grapes of Wrath
 
 
 #Behind the public demeanor
 
-Let's <uncloth> these <> revolutionaries.
+People's proclivity of remembering revolutionaries by their public facade of <> is <long known>. But here let's try to see what revolutionaries actually are behind their demeanor.
+
+![Martin Luther King, Jr.](http://samyakchoudhary.com/img/martin-luther-king-dream-speech.jpg){: .center-image }
 
 To substantially overturn an old system, one needs to be completely at odds with it. This belief is embedded so deeply in our cultural psyche that we rarely even stop to think about it. We see world changers as people who are impervious to opposition and simply don’t worry about the costs of non-conformity the way the rest of us do. Diplomacy and compromise don't seem to be the personality traits of individuals who drive change in the world. Right?
 
 I will backpedal on this myth that has been cajoled into us by mythified stories of revolution and world change.
 
-We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and practices they don't believe in. They are seen as paragons of obstinate confidence. The image of a mutineer erupts in our heads when we come across the word "revolutionary" . This image is <nothing/anything> but a mirage. 
+We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and practices they don't believe in. They are seen as paragons of obstinate confidence. The image of a mutineer erupts in our heads when we come across the word "revolutionary" . This image is nothing but a mirage. 
 
 Digging into the lives of Martin Luther King Jr., Mahatma Gandhi, Nelson Mandela and the like, reveals something inconceivably astounding. You realize as they question traditions and challenge the status quo, they may appear bold and self-assured on the surface. But when you peel back the layers, the truth is that they, too, grapple with fear, ambivalence, and self-doubt. We view them as self-starters, but their efforts are often fueled and sometimes forced by others. And as much as they seem to embrace conflict, they really prefer to avoid it.
 
@@ -119,6 +128,10 @@ Martin Luther King, Jr., the kingpin of the civil rights movement and who had a 
 Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the antiapartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Jhoanesberg inorder to avoid an arranged marriage. As entering Jhonaeberg as an anonymous black person, he came to face-to-face with the brutual reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an orgnization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Jhoanesberg and his experiences there. Later, several militant young members of ANC met him and persuaded him to form and lead the African National Congress Youth League (ANCYL) to enforce a more radical approach against racial discrimination.
 
 <rebels behind their public demeanor>
+
+Anyway, enough of history. Let's talk movies!
+
+
 
 #The Differentiation / The approach 
 
@@ -222,7 +235,7 @@ I have been wasting my time and my readers time trying to make an unnecessary co
 
 IMO, both are nuthead extremists but hey, only <nutheads> like these have been known to bring marked transormations!
 
-I am just a laid back rebel.
+I am just a <laid back/lazy> incorrigible rebel.
 
 Now the conclusion that is expected from a 'serious' blogpost as this - 
 
