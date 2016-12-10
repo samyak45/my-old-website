@@ -5,12 +5,12 @@ layout: page-no-sidebar
 featimg: 
 categories : []
 tags : []
-published : true
+published : false
 ---
 
 <collage of some revolutionaries>
 
-“The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
+> “The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
 
 Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
 
