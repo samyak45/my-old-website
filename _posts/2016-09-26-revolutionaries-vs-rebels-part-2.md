@@ -1,5 +1,5 @@
 ---
-title: Revolutionaries vs Rebels / From Rebels to Revolution
+title: Revolutionaries vs Rebels (Part 2)
 author: Samyak Choudhary
 layout: page-no-sidebar
 featimg: 

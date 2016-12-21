@@ -2,7 +2,7 @@
 title: Revolutionaries vs Rebels
 author: Samyak Choudhary
 layout: page-no-sidebar
-featimg: 
+featimg: Revolutionaries-vs-Rebels-featimg.jpg
 categories : []
 tags : []
 published : true
@@ -12,15 +12,15 @@ published : true
 
 Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
 
-Recently I got caught up in an argument with one of my friends who accussed me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
+Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
 
-She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebelious streak is innate to people her age. 
+She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age. 
 
-In adolosence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of grey it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greesy stains from this world and make it the "heavenly place" it should have already been when we were born!
+In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!
 
-> "Inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to.", I said.
+> "Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said.
 
-Refuting her acute accusations through combination of logic and emotions superficially, I began to question my integrity internally. While I explained how inorder to win wars we can't afford losing, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the the war whose battle flags I was blazing.
+Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.
 
 Soon, my mulling turned from questioning myself to sifting the definitions of rebels and revolutionaries. 
 
@@ -30,16 +30,16 @@ Soon, my mulling turned from questioning myself to sifting the definitions of re
 
 "Are all revolutionaries rebels? If not, what is the difference between them?"
 
-I arrived at the following findings after dicussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remoulded the world, (re)watching relavant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.
+I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, (re)watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.
 
 --
 
 Rebels and revolutionaries are two different (though not completely disjoint) breeds of insurgents. Both loathe untenable antediluvian norms. The divergence lies in the approach they take to debunk them. The difference is subtle but clear.
 
-(It might be helpful to visualize Bhagat Singh, Che Guevera and Paan Singh Tomar as rebels and people like Mahatma Gandhi, Martin Luther King Jr., and Nelson Madela as revolutionaries for the remaining of this article.)
+(It might be helpful to visualize Bhagat Singh, Che Guevera and Paan Singh Tomar as rebels and people like Mahatma Gandhi, Martin Luther King Jr., and Nelson Mandela as revolutionaries for the remaining of this article.)
 
 
-#Who are rebels?
+**Who are rebels?**
 
 This guy -
 
@@ -54,7 +54,7 @@ Obviously him -
 ![Harry Potter](http://samyakchoudhary.com/img/harry-potter-rebel.jpg){: .center-image }
 
 
-Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are ? Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge I have recently been pushed into the 'Rebel Worldcup'!
+Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are? Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!
 
 Anyway, a rebel is a person who resists authority, control, or tradition.  Rebels fight against the status quo to resist authority or conformity and to promote or preserve their personal autonomy. Drawn towards seeking aesthetic perfection, their orientation is highly individualistic. 
 
@@ -72,7 +72,7 @@ A typical idealist rebel's dialogue -
 
 > “And maybe there’s no peace in this world, for us or for anyone else, I don’t know. But I do know that, as long as we live, we must remain true to ourselves.”  - Spartacus (Kirk Douglas) in Spartacus
 
-#Who are revolutionaries?
+**Who are revolutionaries?**
 
 Definitely her -
 
@@ -87,9 +87,9 @@ And how can anyone forget him -
 ![Batman](http://samyakchoudhary.com/img/the-dark-knight.jpg){: .center-image }
 
 
-You must consider yourself lucky if you have ever encountered a true revolutionary. And I take my hat off to you if you sucessfully endured the inborn sense of morality and virtuous nature that makes everyone else's distress over personal life issues seem pitiful. One problem though, I don't wear a hat :P .
+You must consider yourself lucky if you have ever encountered a true revolutionary. And I take my hat off to you if you successfully endured the inborn sense of morality and virtuous nature that makes everyone else's distress over personal life issues seem pitiful. One problem, though, I don't wear a hat :P.
 
-A revolutionary is someone who works for political or social change.  The orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
+A revolutionary is someone who works for a political or social change.  The orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
 
 Think Katniss (The Hunger Games), Dumbledore (Harry Poter), Batman (The Dark Knight) and Aragorn 2 (The Lord of the Rings).
 
@@ -101,14 +101,14 @@ Note that these aren't idle dreamers, but people capable of taking concrete step
 
 They are people of conscience who cause revolution to conform society, as a whole, to a higher moral or ethical standard.
 
-As we trace the lives of several revolutionaries, we locate a common thread of virtue connecting their life events. Over the course of their lives these individuals are drawn further and further down the path of righteousness. They are compelled to do one small thing, then another and another until, in the end, they have sacrificed their personal concerns, their safety, their security, their family, their fortunes or often their lives.
+As we trace the lives of several revolutionaries, we locate a common thread of virtue connecting their life events. Over the course of their lives, these individuals are drawn further and further down the path of righteousness. They are compelled to do one small thing, then another and another until, in the end, they have sacrificed their personal concerns, their safety, their security, their family, their fortunes or often their lives.
 
 Typical revolutionary monotone -
 
 > “Wherever there’s a fight, so hungry people can eat, I’ll be there. Wherever there’s a cop beating up a guy, I’ll be there. I’ll be in the way guys yell when they are mad. I’ll be in the way kids laugh when they are hungry and they know supper’s ready, and when the people are eating the stuff they raise and living in the houses they build– I’ll be there, too.” - Tom Joad (Henry Fonda) in The Grapes of Wrath
 
 
-#Revolutionaries behind their public demeanor
+**Revolutionaries behind their public demeanor**
 
 People's proclivity of remembering revolutionaries by their impeccable public facade is classic. But here let's try to see what revolutionaries actually are behind their popular demeanor.
 
@@ -118,35 +118,35 @@ To substantially overturn an old system, one needs to be completely at odds with
 
 I will backpedal on this myth that has been cajoled into us by mythified stories of revolution and world change.
 
-We see revolutionaries as freethinking idealists who, untethered by social proof, incessantly rebut theories, ideas and practices they don't believe in. They are seen as paragons of obstinate confidence. The image of a mutineer erupts in our heads when we come across the word "revolutionary" . This image is nothing but a mirage. 
+We see revolutionaries as free thinking idealists who, untethered by social proof, incessantly rebut theories, ideas, and practices they don't believe in. They are seen as paragons of obstinate confidence. The image of a mutineer erupts in our heads when we come across the word "revolutionary". This image is nothing but a mirage. 
 
 Digging into the lives of Martin Luther King Jr., Mahatma Gandhi, Nelson Mandela and the like, reveals something inconceivably astounding. You realize as they question traditions and challenge the status quo, they may appear bold and self-assured on the surface. But when you peel back the layers, the truth is that they, too, grapple with fear, ambivalence, and self-doubt. We view them as self-starters, but their efforts are often fueled and sometimes forced by others. And as much as they seem to embrace conflict, they really prefer to avoid it.
 
-Martin Luther King, Jr., the kingpin of the civil rights movement and who had a seismic impact on race relations in the United States, was apprehensive about joining the civil rights movement. He was nominated for presidency of Montgomery Improvement Association - the organization that catapulted the Montgomery Bus Boycott and Dr. Martin Luther King, Jr. to the forefront of the national struggle for civil rights - by another member. King later reflected, “It had happened so quickly that I did not even have time to think it through. It is probable that if I had, I would have declined the nomination”. Even later during the course of the revolution, King and his wife wanted him to step down however, he couldn't muster the courage to do so.
+Martin Luther King, Jr., the kingpin of the civil rights movement and who had a seismic impact on race relations in the United States, was apprehensive about joining the civil rights movement. He was nominated for the presidency of Montgomery Improvement Association - the organization that catapulted the Montgomery Bus Boycott and Dr. Martin Luther King, Jr. to the forefront of the national struggle for civil rights - by another member. King later reflected, “It had happened so quickly that I did not even have time to think it through. It is probable that if I had, I would have declined the nomination”. Even later during the course of the revolution, King, and his wife wanted him to step down, however, he couldn't muster the courage to do so.
 
 ![Nelson Mandela](http://samyakchoudhary.com/img/nelson-mandela.jpg){: .center-image }
 
-Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the antiapartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Jhoanesberg inorder to avoid an arranged marriage. As entering Jhonaeberg as an anonymous black person, he came to face-to-face with the brutual reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an orgnization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Jhoanesberg and his experiences there. Later, several militant young members of ANC persuaded him to form and lead the African National Congress Youth League (ANCYL) to enforce a more radical approach against racial discrimination. Though not being so keen about endeavoring into this, he relented after repeated requests.
+Nelson Mandela, the South African activist who played a key role in bringing an end to apartheid and was the leader of the anti-apartheid movement, was born into a high-ranking royal family and was raised to be a tribal leader. Oblivious of the discrimination faced by urban blacks, he would have dutifully followed the life path pre-decided for him had he not fled to Johannesburg in order to avoid an arranged marriage. As entering Johannesburg as an anonymous black person, he came to face-to-face with the brutal reality of racially divided South Africa. He had almost decided to go back to his village but was coaxed into attending a meeting of the African National Congress, an organization that aimed to establish a democratic government. Here Mandela presented the dichotomy between his life prior to coming to Johannesburg and his experiences there. Later, several militant young members of ANC persuaded him to form and lead the African National Congress Youth League (ANCYL) to enforce a more radical approach against racial discrimination. Though not being so keen about endeavoring into this, he relented after repeated requests.
 
-And what about Mahatma Gandhi, the venerated freedom fighter who pioneered India's non-violent mass struggle for independence? [Gopal Krishna Gokhale’s repeated requests brought Mahatma Gandhi back to India](http://blogs.economictimes.indiatimes.com/et-commentary/gopal-krishna-gokhales-repeated-requests-brought-mahatma-gandhi-back-to-india/), from South Africa. He mentored Gandhi in his formative years and gave him a knowledge and understanding of India and the issues confronting common Indians. Studying the life of Gandhi further reveals how instances of selfdoubt plagued the life of a man of insurmountable will. Selfdoubt didn't leave him till his last breath and yet there has never been a revolutionary more celebrated than him!
+And what about Mahatma Gandhi, the venerated freedom fighter who pioneered India's non-violent mass struggle for independence? [Gopal Krishna Gokhale’s repeated requests brought Mahatma Gandhi back to India](http://blogs.economictimes.indiatimes.com/et-commentary/gopal-krishna-gokhales-repeated-requests-brought-mahatma-gandhi-back-to-india/), from South Africa. He mentored Gandhi in his formative years and gave him a knowledge and understanding of India and the issues confronting common Indians. Studying the life of Gandhi further reveals how instances of self-doubt plagued the life of a man of insurmountable will. Self-doubt didn't leave him till his last breath and yet there has never been a revolutionary more celebrated than him!
 
 ![Mahatma Gandhi](http://samyakchoudhary.com/img/solo-protests-gandhi-salt-march.jpg){: .center-image }
 
-#Rebels behind their public demeanor
+**Rebels behind their public demeanor**
 
-For rebels, there is not much to unveil since, rebels don't believe in wearing any 'masks'. For them, flinching, even momentarily, from who they are is a sign of cowardice and rebels would prefer dying to coming across as a coward. No, they don't filter their thoughts, temper their strong emotions or cover their dissenting attitude. They don't hide their idiosyncracies either. They flout fickleness and call your shit, shit. 
+For rebels, there is not much to unveil since rebels don't believe in wearing any 'masks'. For them, flinching, even momentarily, from who they are is a sign of cowardice and rebels would prefer dying to coming across as a coward. No, they don't filter their thoughts, temper their strong emotions or cover their dissenting attitude. They don't hide their idiosyncracies either. They flout fickleness and call your shit, shit. 
 
 ![The Legend of Bhagat Singh, court](http://samyakchoudhary.com/img/the-legend-of-bhagat-singh-court.jpg){: .center-image }
 
-Rebels are epitomes of courage and fearlessness. Not that they aren't afraid or insecure. However, they find common fears (such as death) ludicrous. Their biggest (and often only) fear is dying with their "mission" unaccomplished. This fear is the foundation of their ability of thinking on their feet and acting spontaneously. Rebels are the first to stand against anyone or anything they consider "wrong" and while the common crowd will be consumed in gossip and the revolutionaries engrossed in anodyne discussions, rebels would already have acted. This doesn't mean that they don't plan. However, their plans have little to do with feasibility of action and more to do with increasing probability of success. 
+Rebels are epitomes of courage and fearlessness. Not that they aren't afraid or insecure. However, they find common fears (such as death) ludicrous. Their biggest (and often only) fear is dying with their "mission" unaccomplished. This fear is the foundation of their ability to think on their feet and act spontaneously. Rebels are the first to stand against anyone or anything they consider "wrong" and while the common crowd will be consumed in gossip and the revolutionaries engrossed in anodyne discussions, rebels would already have acted. This doesn't mean that they don't plan. However, their plans have little to do with the feasibility of action and more to do with increasing probability of success. 
 
 ![The Legend of Bhagat Singh, assassination](http://samyakchoudhary.com/img/the-legend-of-bhagat-singh-assassination.jpg){: .center-image }
 
-[//]: # (Anyway, enough of history. Let's talk movies!... I am omitting this section to reduce length of this already humongous post. But, for those of you have nothing more interesting to do than read some supplementary content for this post - [Revolutionaries and Rebels in movies (and TV Shows)]().)
+[//]: # (Anyway, enough of history. Let's talk movies!... I am omitting this section to reduce the length of this already humongous post. But, for those of you have nothing more interesting to do than read some supplementary content for this post - [Revolutionaries and Rebels in movies (and TV Shows)]().)
 
-#The Differentiation / The approach 
+**Difference in Approach**
 
-The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonisation, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). However, as any <adj> movement progresses forward, these distinctions blur in since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction. 
+The core difference between a rebel and a revolutionary lies in the fact that while a rebel stands against something (e.g. colonization, apartheid, poverty, etc), a revolutionary stands for something (e.g. people's rights, equality, better livelihood). However, as any <adj> movement progresses forward, these distinctions blur in since, advocating for new systems often requires demolishing the old way of doing things and engaging in acts of creative destruction. 
 
 When the demarcation between these two breeds of insurgents eventually becomes almost non-existent, how do we distinguish between them and most importantly why does it even matter?
 
@@ -160,6 +160,6 @@ Read [Revoluionaries vs Rebels (Part-2)](). In Part-2, I will discuss how the ap
 
 Then, provided the post doesn't become too long, I will cover Che Guevera, the 'Revolutionary Rebel', to cite an example where revolution becomes rebellion.
 
-(Hopefully) after that I will conclude.
+(Hopefully) after that, I will conclude.
 
 See Ya.
