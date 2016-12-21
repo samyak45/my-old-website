@@ -8,7 +8,7 @@ tags : []
 published : true
 ---
 
-"I have an idea to build synthetic trees to reduce global warming and oxygenate our degrading environment.", says my brother [Ishan](https://www.facebook.com/ishan.dubey.585).
+"I have an idea to build synthetic trees to reduce global warming and oxygenate our degrading environment.", says my brother.
 
 (An extremely juvenille blogpost where I lament as old childhood dreams transform into a lifelong fantasy as I grow older.Yet again an acknowledgment goes to my brother Ishan who although didn't help me directly with the content but pushed me - with his constant  stream of "new" ideas - into the mind frame required for writing the post.)
 
