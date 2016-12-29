@@ -28,7 +28,7 @@ With insolence she said - "I looked up to the revolutionary I used to see in you
 
 "Inorder to win wars one can't afford to lose, one needs to stop waging battles he/she can be indifferent to.", I refuted.
 
-After sifting through the lives of people who have brought radical social changes - both in fiction and in real life - I reached the following findings.
+To better understand my own argument, I decided to sift through the lives of people who have brought radical social changes - both in fiction and in real life. I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, (re)watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.
 
 [//]: # (And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing? My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
 
@@ -36,13 +36,17 @@ After sifting through the lives of people who have brought radical social change
 
 [//]: # (I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, re-watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.)
 
---
-
 [//]: # (Two mutineering forces that bring radical changes can be identified - 1. Rebels and, 2. Revolutionaries.)
 
-The two ways of bringing radical transformations are - 1. The rebel way and, 2. The revolutionary way.
+--
 
-But,before we proceed further, we need to ask why read this post about revolutionaries and rebels (apart from because we have nothing more subtantial to do). Not many, if any, amongst us might be currently involved in some mass movement aspiring to break untenable antediluvian norms or overthrow some tyrant.
+Two identified ways of bringing radical transformations are - 1. The rebel way and, 2. The revolutionary way.
+
+Wait!
+
+Why read this post about revolutionaries and rebels (apart from because we have nothing more subtantial to do)? Not many, if any, amongst us might be currently involved in some mass movement aspiring to break untenable antediluvian norms or overthrow some tyrant.
+
+My claim - 
 
 Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
 
@@ -58,32 +62,30 @@ Rebels and revolutionaries are two different (though not completely disjoint) br
 
 (It might be helpful to visualize Bhagat Singh, Che Guevera and Paan Singh Tomar as rebels and people like Mahatma Gandhi, Martin Luther King Jr., and Nelson Mandela as revolutionaries for the remaining of this article.)
 
-
-
 **Who are rebels?**
 
-This guy -
+Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are? 
+
+(Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!)
+
+Anyway, rebels resist authority, control, tradition and conformity inorder to promote or preserve their personal autonomy. They are drawn towards seeking aesthetic perfection and their orientation is highly individualistic. 
+
+Think these - 
 
 ![Jack Sparrow](http://samyakchoudhary.com/img/jack-sparrow_trustDishonesty.jpg){: .center-image }
 
-This girl - 
-
 ![Arya Stark](http://samyakchoudhary.com/img/arya-stark.jpg){: .center-image }
-
-Obviously him - 
 
 ![Harry Potter](http://samyakchoudhary.com/img/harry-potter-rebel.jpg){: .center-image }
 
 
-Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are? Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!
+[//]: # (Think Jack Sparrow (Pirates of the Caribbean), Arya Stark (Game of Thrones), and Dr. Gregory House (House, M.D.). If you have studied in IIT Roorkee between 2013-17 then a supercilious person with initials S.V. (I hope I am not gored to death for this). If we have ever met (or you know me without me knowing you), then me.)
 
-Anyway, a rebel is a person who resists authority, control, or tradition.  Rebels fight against the status quo to resist authority or conformity and to promote or preserve their personal autonomy. Drawn towards seeking aesthetic perfection, their orientation is highly individualistic. 
+[//]: # (Though, the last person mentioned is the most charming maverick you might ever encounter.)
 
-Think Jack Sparrow (Pirates of the Caribbean), Arya Stark (Game of Thrones), and Dr. Gregory House (House, M.D.). If you have studied in IIT Roorkee between 2013-17 then a supercilious person with initials S.V. (I hope I am not gored to death for this). If we have ever met (or you know me without me knowing you), then me. 
+(And the most charming maverick of all - Me!)
 
-Though, the last person mentioned is the most charming maverick you might ever encounter. ;)
-
-Noteworthiness, rarity, distinctiveness, individuality and/or the unusual, idiosyncratic or eccentric are what these characters value most highly in themselves and others.
+Noteworthiness, rarity, distinctiveness, individuality and/or the unusual, idiosyncratic or eccentric are the characters rebels value most highly in themselves and others.
 
 These are idealists who have high standards and seek excellence in whatever they do. They believe that what is perfect but unavailable or unattainable is infinitely more desirable than what is flawed but possible or achievable. 
 
@@ -95,24 +97,17 @@ A typical idealist rebel's dialogue -
 
 **Who are revolutionaries?**
 
-Definitely her -
+Consider yourself lucky if you have ever encountered this rare breed. And I take my hat off to you if you successfully endured the inborn sense of morality and virtuous nature that makes everyone else's distress over personal life issues seem pitiful. (Though, I don't wear a hat.)
+
+Revolutionaries work for a political or social change and their orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
+
+Think these - 
 
 ![Katniss Everdeen](http://samyakchoudhary.com/img/Katniss-Everdeen.jpg){: .center-image }
 
-Him too -
-
 ![Dumbledore](http://samyakchoudhary.com/img/dumbledore.jpg){: .center-image }
 
-And how can anyone forget him - 
-
 ![Batman](http://samyakchoudhary.com/img/the-dark-knight.jpg){: .center-image }
-
-
-You must consider yourself lucky if you have ever encountered a true revolutionary. And I take my hat off to you if you successfully endured the inborn sense of morality and virtuous nature that makes everyone else's distress over personal life issues seem pitiful. One problem, though, I don't wear a hat :P.
-
-A revolutionary is someone who works for a political or social change.  The orientation is toward changing and improving society. Motivated towards seeking moral and ethical perfection, revolutionaries believe they could do better, others could improve and the world could be a better place.
-
-Think Katniss (The Hunger Games), Dumbledore (Harry Poter), Batman (The Dark Knight) and Aragorn 2 (The Lord of the Rings).
 
 (Katniss can't be a revolutionary. She is such a crybaby. Dumbledore and Batman are more of rebels. Right? Well, this blogpost is meant just for you dear reader and it might change your complete notion of revolutionaries. Read along!)
 
