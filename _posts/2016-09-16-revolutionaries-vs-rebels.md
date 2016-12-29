@@ -10,15 +10,19 @@ published : true
 
 How are wide-ranging disruptive transformations affected? And what are the protagonists behind these transformations like?
 
-[//]: #("Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead)
+[//]: # ("Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead)
 
-[//]: #(“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
-Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
-Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
-She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age.
-In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!
-"Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said.
-Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
+[//]: # (“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw)
+
+[//]: # (Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.)
+
+[//]: # (Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults.")
+
+[//]: # (She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age.)
+
+[//]: # (In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!)
+
+[//]: # ("Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said. Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
 
 With insolence she said - "I looked up to the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
 
@@ -26,34 +30,33 @@ With insolence she said - "I looked up to the revolutionary I used to see in you
 
 After sifting through the lives of people who have brought radical social changes - both in fiction and in real life - I reached the following findings.
 
-[//]: #(And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing?
-My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
+[//]: # (And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing? My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
 
-[//]: #(Soon, my mulling turned towards sifting the definitions of rebels and revolutionaries.
-"What does it mean to be a revolutionary or a rebel?"
-"What are the two like behind their public demeanor?"
-"Are all revolutionaries rebels? If not, what is the difference between them?")
+[//]: # (Soon, my mulling turned towards sifting the definitions of rebels and revolutionaries. "What does it mean to be a revolutionary or a rebel?" "What are the two like behind their public demeanor?" "Are all revolutionaries rebels? If not, what is the difference between them?")
 
-[//]: #(I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, (re)watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.)
+[//]: # (I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, re-watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.)
 
 --
 
-[//]: #(Two mutineering forces that bring radical changes can be identified - 1. Rebels and, 2. Revolutionaries.)
+[//]: # (Two mutineering forces that bring radical changes can be identified - 1. Rebels and, 2. Revolutionaries.)
 
 The two ways of bringing radical transformations are - 1. The rebel way and, 2. The revolutionary way.
 
 But,before we proceed further, we need to ask why read this post about revolutionaries and rebels (apart from because we have nothing more subtantial to do). Not many, if any, amongst us might be currently involved in some mass movement aspiring to break untenable antediluvian norms or overthrow some tyrant.
 
+Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
+
 Irrespective of whether or not we are a part of a movement, rebellion and revolution are two agents of change that never abandon us. They shape us and our world. From having shaped the history of our world (which in turn is responsible for our present) to deciding the future course of the organizations we work for and the industries we work in, from determining how our past idiosyncrasies have shaped our current reputations to how our superiors and our colleagues are gonna respond to them now, from determining whether we will be just dismissed as another crazy person with a crazy idea or remembered as an individual who transfigured a domain.
 
 Whether you are someone aspiring to bring a change or someone following others trying to or just a silent spectator, understanding the rebell mindset and the revolutionary mindset can help in making better decisions and getting better outcomes.
 
-So, who are these rebels and revolutionaries? How are they different? and (most importantly), How do they accomplish the daunting task of changing deep-seated beliefs and behaviors, and, unsettle time-honored social machinery and establishments?
+So, who are these rebels and revolutionaries? How are they different? and (most importantly), How do they accomplish the daunting task of unsettling time-honored social machineries and establishments?
+
+> "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead
 
 Rebels and revolutionaries are two different (though not completely disjoint) breeds of insurgents. Both loathe untenable antediluvian norms. The divergence lies in the approach they take to debunk them. The difference is subtle but clear.
 
 (It might be helpful to visualize Bhagat Singh, Che Guevera and Paan Singh Tomar as rebels and people like Mahatma Gandhi, Martin Luther King Jr., and Nelson Mandela as revolutionaries for the remaining of this article.)
-
 
 
 
