@@ -7,8 +7,10 @@ categories : []
 tags : []
 published : true
 ---
+> "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead
 
-> “The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
+[//]: # (
+> “The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
 
 Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
 
@@ -20,9 +22,21 @@ In adolescence, while leaving the cocoon of childhood, we all are consumed by sk
 
 > "Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said.
 
-Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.
+Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
 
-Soon, my mulling turned from questioning myself to sifting the definitions of rebels and revolutionaries. 
+With insolence she said - "I looked up to the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
+
+"Inorder to win wars one can't afford to lose, one needs to stop waging battles he/she can be indifferent to.", I refuted.
+
+[//]: # (And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing?
+
+My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
+
+How are wide-ranging disruptive transformations affected? And what are the protagonists behind these transformations like?
+
+Soon, my mulling turned towards sifting the definitions of rebels and revolutionaries.
+
+"What are rebels
 
 "What does it mean to be a revolutionary or a rebel?"
 
