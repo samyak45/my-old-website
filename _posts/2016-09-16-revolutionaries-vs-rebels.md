@@ -9,18 +9,12 @@ published : true
 ---
 > "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead
 
-[//]: # (“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw 
-
+[//]: # (“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
 Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.
-
 Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
-
-She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age. 
-
+She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age.
 In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!
-
 "Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said.
-
 Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
 
 With insolence she said - "I looked up to the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
