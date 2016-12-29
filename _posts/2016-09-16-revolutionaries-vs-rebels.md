@@ -1,5 +1,5 @@
 ---
-title: Rebels and Revolutionaries
+title: Revolutionaries and Rebels
 author: Samyak Choudhary
 layout: page-no-sidebar
 featimg: Revolutionaries-vs-Rebels-featimg.jpg
