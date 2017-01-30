@@ -1,7 +1,7 @@
 ---
 title: Rebels: Who they are and why you need them
 author: Samyak Choudhary
-layout: page-full
+layout: page-no-sidebar
 featimg: hans_solo.jpg
 categories : []
 tags : []
