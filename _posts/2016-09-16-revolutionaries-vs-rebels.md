@@ -10,19 +10,19 @@ published : false
 
 How are wide-ranging disruptive transformations affected? And what are the protagonists behind these transformations like?
 
-[//]: # ("Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead)
+[//]: <> ("Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has." - Margaret Mead)
 
-[//]: # (“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw)
+[//]: <> (“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw)
 
-[//]: # (Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.)
+[//]: <> (Every day, we all encounter things we love and things that need to change. The former give us joy. The latter fuel our desire to make the world different—ideally better than the way we found it. But trying to change deep-seated beliefs and behaviors is daunting. Most accept the status quo because effecting real change seems impossible, some fight against it and very few manage to dismantle deep setted beliefs and redefine what the world believes in.)
 
-[//]: # (Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults.")
+[//]: <> (Recently I got caught up in an argument with one of my friends who accused me of having undergone neuroplasticity and lost the courage to go against the grain. With insolence, she said - "I was appreciative of the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults.")
 
-[//]: # (She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age.)
+[//]: <> (She is a teenager and I can't disapprove her of her infatuation with insurgence. A rampant rebellious streak is innate to people her age.)
 
-[//]: # (In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!)
+[//]: <> (In adolescence, while leaving the cocoon of childhood, we all are consumed by sky-high fantasies and find society around us as restraining. Unable to see the world as the shades of gray it is, we see it as a black and white and despite limited experiences, begin to question the time-honored social machinery. Without taking the time to better understand the world and the people around us, we start envisioning to scrub off the greasy stains from this world and make it the "heavenly place" it should have already been when we were born!)
 
-[//]: # ("Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said. Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
+[//]: <> ("Inorder to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to.", I said. Refuting her acute accusations through a combination of logic and emotions superficially, I began to question my integrity internally. While I explained how in order to win wars we can't afford to lose, we need to stop waging battles one can be indifferent to, I began to wonder if I had already lost the war whose battle flags I was blazing.)
 
 With insolence she said - "I looked up to the revolutionary I used to see in you, but alas you seem to have locked your rebellious streak inside some trunk and submerged the trunk in the shallow cruddy sea of social acceptance. Congrats, you are almost there to becoming another adult accepting defaults."
 
@@ -30,13 +30,13 @@ With insolence she said - "I looked up to the revolutionary I used to see in you
 
 To better understand my own argument, I decided to sift through the lives of people who have brought radical social changes - both in fiction and in real life. I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, (re)watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.
 
-[//]: # (And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing? My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
+[//]: <> (And while defending myself, I began to question my integrity. Had I lost the war to change the world, whose battle flags I have been blazing? My mullings turned outwards and I decided to better understand the process of causing wide-ranging disruptive transformations.)
 
-[//]: # (Soon, my mulling turned towards sifting the definitions of rebels and revolutionaries. "What does it mean to be a revolutionary or a rebel?" "What are the two like behind their public demeanor?" "Are all revolutionaries rebels? If not, what is the difference between them?")
+[//]: <> (Soon, my mulling turned towards sifting the definitions of rebels and revolutionaries. "What does it mean to be a revolutionary or a rebel?" "What are the two like behind their public demeanor?" "Are all revolutionaries rebels? If not, what is the difference between them?")
 
-[//]: # (I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, re-watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.)
+[//]: <> (I arrived at the following findings after discussing with friends over overstretched lunchtime conversations, reading biographies of people who have dismantled and remolded the world, re-watching relevant movies and TV-Shows, and spending hours contemplating over raw facts and trying to connect them.)
 
-[//]: # (Two mutineering forces that bring radical changes can be identified - 1. Rebels and, 2. Revolutionaries.)
+[//]: <> (Two mutineering forces that bring radical changes can be identified - 1. Rebels and, 2. Revolutionaries.)
 
 --
 
@@ -79,9 +79,9 @@ Think these -
 ![Harry Potter](http://samyakchoudhary.com/img/harry-potter-rebel.jpg){: .center-image }
 
 
-[//]: # (Think Jack Sparrow (Pirates of the Caribbean), Arya Stark (Game of Thrones), and Dr. Gregory House (House, M.D.). If you have studied in IIT Roorkee between 2013-17 then a supercilious person with initials S.V. (I hope I am not gored to death for this). If we have ever met (or you know me without me knowing you), then me.)
+[//]: <> (Think Jack Sparrow (Pirates of the Caribbean), Arya Stark (Game of Thrones), and Dr. Gregory House (House, M.D.). If you have studied in IIT Roorkee between 2013-17 then a supercilious person with initials S.V. (I hope I am not gored to death for this). If we have ever met (or you know me without me knowing you), then me.)
 
-[//]: # (Though, the last person mentioned is the most charming maverick you might ever encounter.)
+[//]: <> (Though, the last person mentioned is the most charming maverick you might ever encounter.)
 
 (And the most charming maverick of all - Me!)
 
@@ -158,7 +158,7 @@ Rebels are epitomes of courage and fearlessness. Not that they aren't afraid or 
 
 ![The Legend of Bhagat Singh, assassination](http://samyakchoudhary.com/img/the-legend-of-bhagat-singh-assassination.jpg){: .center-image }
 
-[//]: # (Anyway, enough of history. Let's talk movies!... I am omitting this section to reduce the length of this already humongous post. But, for those of you have nothing more interesting to do than read some supplementary content for this post - [Revolutionaries and Rebels in movies (and TV Shows)]().)
+[//]: <> (Anyway, enough of history. Let's talk movies!... I am omitting this section to reduce the length of this already humongous post. But, for those of you have nothing more interesting to do than read some supplementary content for this post - [Revolutionaries and Rebels in movies (and TV Shows)]().)
 
 **Difference in Approach**
 
