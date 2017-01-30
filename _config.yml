@@ -31,7 +31,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post-material-sidebar-right"
+      layout: "page-no-sidebar"
       type: "standard"
       homedisplay: "featimg"
 
