@@ -8,13 +8,9 @@ Do I really need to tell you who these conceited, egotistical, mutinous troublem
 
 (Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!)
 
-Who are rebels? Think these-
+Who are rebels? Think these Captain Jack Sparrow, Arya Stark, House MD and (of course) Harry Potter.
 
 ![Jack Sparrow](http://samyakchoudhary.com/img/jack-sparrow_trustDishonesty.jpg){: .center-image }
-
-![Arya Stark](http://samyakchoudhary.com/img/arya-stark.jpg){: .center-image }
-
-![Harry Potter](http://samyakchoudhary.com/img/harry-potter-rebel.jpg){: .center-image }
 
 Rebels resist authority, control, tradition and conformity inorder to promote or preserve their personal autonomy. They are drawn towards seeking aesthetic perfection and their orientation is highly individualistic. Noteworthiness, rarity, distinctiveness, individuality and/or the unusual, idiosyncratic or eccentric are the characters rebels value most highly in themselves and others.
 
@@ -28,13 +24,11 @@ Known for their insolent blunt remarks and crude straighforwardness, it's not, a
 
 Rebels are epitomes of courage and fearlessness. Not that they aren't afraid or insecure.  However, their fear of not succeeding exceeds their fear of failing. This fear is the foundation of their ability to think on their feet and act spontaneously, even when the risks are high. With the confidence to think for themselves and the courage to live what they believe in, they wage a constant battle against indoctrination and mind control; refusing to be programmed by the ‘values’ imposed by other generations and by the super "robots" in politics, economics, science, and religion.
 
-[//]:<>(However, they find common fears (such as death) ludicrous. Their biggest (and often only) fear is dying with their "mission" unaccomplished.)
-
 ![Sloane captured Kanan, Star Wars](http://samyakchoudhary.com/img/Sloane_captured_Kanan.png){: .center-image }
 
-Anyway, enough deification of these difficult to get along with mutineering menaces. Getting to the main point of why do you need them (especially if you are someone leading a team, project or organization)?
+Enough deification of these difficult to get along with mutineering menaces. Getting to why do you need them (especially if you are someone leading a team, project or organization)?
 
-> “The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
+>“The reasonable man adapts himself to the world: the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
 
 A journey of a thousand miles begins with one step and a transformation of human understanding can begin with one thought and one rebel. Every improvement in the human condition has come from someone pushing against the tide and speaking out, no matter what the consequences.
 
@@ -60,7 +54,7 @@ Another problem with experts, is their reputation of being 'experts'. Having bui
 
 ![Expert](http://samyakchoudhary.com/img/crowned-expert.jpg){: .center-image }
 
-It's not the experts and experiences, but the rule-benders and rule-breakers who are more tuned into the art of the possible. Who better placed in finding gaps to fill than someone who takes immense fun in spotting workarounds and back doors in systems and processes?
+It's not the experts and experienced, but the rule-benders and rule-breakers who are more tuned into the art of the possible. Who better placed in finding gaps to fill than someone who takes immense fun in spotting workarounds and back doors in systems and processes?
 
 Also, unlike experts, rebels have few reputational concerns. (Those who have, have the concern of not coming across as a rebel which only forces them to bring in more dissenting viewpoints). Even when told they can’t do something because the company structure says so, they still push forward and (if required) ask for forgiveness later.
 
