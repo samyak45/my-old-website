@@ -1,8 +1,9 @@
 ---
-title: Rebels: Who they are and why you need them?
+title: Rebels - Who they are and why you need them?
 featimg: hans-solo.jpg
 published: true
 ---
+
 Do I really need to tell you who these conceited, egotistical, mutinous troublemakers with no regard for rules, regulations or authority are?
 
 (Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!)
